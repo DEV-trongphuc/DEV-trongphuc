@@ -7,7 +7,7 @@ RememberME: https://rememberlibrary.github.io/messages/ <br/>
  <br/> <br/> <br/>
 MAXA: https://doitinhnguyenmamxanh.000webhostapp.com/ <br/> 
 ![image](https://user-images.githubusercontent.com/91412382/138234554-51f938aa-0edc-4e32-9749-884c80c74799.png) <br/> <br/> <br/>
-FIC: https://ficentrepreneurshipclub.github.io/ficcc/ <br/> 
+FIC: https://ficentrepreneurshipclub.github.io/fic-/ <br/> 
 ![image](https://user-images.githubusercontent.com/91412382/138232934-cfa4ab03-10a2-49bd-b963-f9822256c675.png) <br/> <br/> <br/>
 
 My friend is a Photographer: https://lamnhutlinh.github.io/piolinhs/ <br/>
