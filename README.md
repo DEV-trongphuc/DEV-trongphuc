@@ -9,7 +9,7 @@
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
-- Enjoy working with ❤ [ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> + HTML/CSS ] && [ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+- Enjoy working with ❤ [ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> + <code><img height="20" src="https://iconarchive.com/download/i78082/igh0zt/ios7-style-metro-ui/MetroUI-Apps-HTML-5.ico"></code>/CSS ] && [ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
  + SASS ] ❤
 
 ## Working <a href="https://github.com/Rememberlibrary"><img align="left" width="auto" height="200" src="https://avatars.githubusercontent.com/u/91412382?s=400&u=c90a5e7ff5d491ba5e86f3d8bd9db8be018a6f6c&v=4"></a>
