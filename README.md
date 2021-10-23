@@ -5,22 +5,20 @@
 
 <!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
 <!-- ![image](https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png) -->
-# ✨ Trọng Phúc | Front-end WEB ✨ 
+# Trọng Phúc ✨ Front-end WEB
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
 - Enjoy working with ❤ [ Javascript + HTML/CSS ] && [ ReactJS + SASS ] ❤
 
-## WORKING
-<a href="https://github.com/Rememberlibrary"><img align="left" width="auto" height="200" src="https://avatars.githubusercontent.com/u/91412382?s=400&u=c90a5e7ff5d491ba5e86f3d8bd9db8be018a6f6c&v=4"></a> 
+## Working <a href="https://github.com/Rememberlibrary"><img align="left" width="auto" height="200" src="https://avatars.githubusercontent.com/u/91412382?s=400&u=c90a5e7ff5d491ba5e86f3d8bd9db8be018a6f6c&v=4"></a>
 - `HTML5`
 - `CSS3`  `SASS`  
 - `ES6` `Jquery` `Typescript`
 - `ReactJS` `React Hook` `Redux`
 - `Meterials UI` `Firebase`
-<br/> <br/> <br/> <br/> <br/>
-## <p align="center"> PROJECTS FOR SHARING </p> 
- <br/>
+<br/> <br/>
+## Projects for sharing<br/> <br/>
 
 ## Remember Messages `✨NEW✨` `22/10/2021`
 
