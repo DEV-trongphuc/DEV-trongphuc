@@ -18,7 +18,7 @@
 - `ReactJS` `React Hook` `Redux`
 - `Meterials UI` `Firebase`
 <br/> <br/>
-## <p align="center">PROJECT FOR SHARING</p> <br/> <br/>
+## <p align="center">PROJECT FOR SHARING</p>
 
 ## Remember Messages `✨NEW✨` `22/10/2021`
 
