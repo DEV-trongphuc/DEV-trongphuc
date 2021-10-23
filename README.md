@@ -44,9 +44,9 @@
                                                                        `Mầm xanh tình nguyện` <br/>  <br/> 
 - `Link`[https://doitinhnguyenmamxanh.000webhostapp.com/ ](https://doitinhnguyenmamxanh.000webhostapp.com/ )<br/><br/> <br/> 
 - `HTML`  `Bootstrap` `JavaScript` <br/> <br/><br/> <br/>
-- - ## Photographer
+## Photographer
 <a href="https://user-images.githubusercontent.com/91412382/138233280-3cd56f89-7d6b-473c-be91-447e3fbbcfb1.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138233280-3cd56f89-7d6b-473c-be91-447e3fbbcfb1.png"></a> 
-                                                                       `Photographer` <br/>  <br/> 
+                                                                       `Myfriend is a Photographer` <br/>  <br/> 
 - `Link`[https://lamnhutlinh.github.io/piolinhs/](https://lamnhutlinh.github.io/piolinhs/)<br/><br/> <br/> 
 - `HTML`  `Bootstrap` `JavaScript` <br/> <br/><br/> <br/>
 
