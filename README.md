@@ -5,11 +5,11 @@
 
 <!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
 <!-- ![image](https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png) -->
-#  Trọng Phúc <img width="auto" height="40" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"> Front-end WEB <img align="right" top="0" width="auto" height="50" src="https://rememberlibrary.github.io/library/assets/img/%E2%80%94Pngtree%E2%80%94blue%20technology%20planet%20cartoon%20illustration_3979254.png"> 
+#  Trọng Phúc <img width="auto" height="40" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"> Front-end WEB <img align="right" top="0" width="auto" height="65" src="https://rememberlibrary.github.io/library/assets/img/%E2%80%94Pngtree%E2%80%94blue%20technology%20planet%20cartoon%20illustration_3979254.png"> 
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
-- Enjoy working with <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>❤️<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+- Enjoy working with <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <img align="right" width="auto" height="140" src="https://anhdephd.com/wp-content/uploads/2019/03/anh-dong-icon-dep-trang-tri-thiet-ke-331.gif"> 
 
 ## Working <a href="https://github.com/Rememberlibrary"><img align="left" width="auto" height="200" src="https://avatars.githubusercontent.com/u/91412382?s=400&u=c90a5e7ff5d491ba5e86f3d8bd9db8be018a6f6c&v=4"></a>
