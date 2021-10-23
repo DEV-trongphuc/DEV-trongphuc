@@ -16,9 +16,8 @@
 - `CSS3`  `SASS`  
 - `ES6` `Jquery` `Typescript`
 - `ReactJS` `React Hook` `Redux`
-- `Meterials UI` `Firebase`            [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rememberlibrary)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/> <br/>
+- `Meterials UI` `Firebase`           
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rememberlibrary)](https://github.com/anuraghazra/github-readme-stats)
 ## <p align="center">PROJECT FOR SHARING</p>
 
 ## Remember Messages `✨NEW✨` `22/10/2021`
