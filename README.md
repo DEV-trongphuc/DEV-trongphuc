@@ -2,7 +2,7 @@
 
 MAXA: <br/> 
 ![image]() <br/> <br/> <br/>
-FIC: https://ficentrepreneurshipclub.github.io/fic-/ <br/> 
+FIC:  <br/> 
 ![image]() <br/> <br/> <br/>
 
 My friend is a Photographer: https://lamnhutlinh.github.io/piolinhs/ <br/>
@@ -25,9 +25,9 @@ RememberLibrary: <br/>
 
 ## Working <a href="https://github.com/Rememberlibrary"><img align="left" width="auto" height="200" src="https://avatars.githubusercontent.com/u/91412382?s=400&u=c90a5e7ff5d491ba5e86f3d8bd9db8be018a6f6c&v=4"></a>
 
-- `HTML`
-- `CSS `  `SASS`  
-- `JavaScript` `Jquery`
+- `HTML5`
+- `CSS3 `  `SASS`  
+- `ES6` `Jquery`
 - `ReactJS` `React Hook` `Redux`
 <br/> <br/>
 ## Projects for sharing<br/> <br/>
@@ -44,12 +44,12 @@ RememberLibrary: <br/>
 <a href="https://user-images.githubusercontent.com/91412382/138233065-5261a65a-9495-417b-97c0-d259bd46365d.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138233065-5261a65a-9495-417b-97c0-d259bd46365d.png"></a> 
                                                                        `Remember Library` <br/>  <br/> 
 - `Link`[https://rememberlibrary.github.io/library/](https://rememberlibrary.github.io/library/)<br/><br/> <br/> 
-- `HTML`  `CSS` <br/> <br/><br/> <br/>
+- `HTML5`  `CSS3` <br/> <br/><br/> <br/>
 - ## Entrepreneurship-Club
-<a href="https://user-images.githubusercontent.com/91412382/138232934-cfa4ab03-10a2-49bd-b963-f9822256c675.png"><img align="right" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138232934-cfa4ab03-10a2-49bd-b963-f9822256c675.png"></a> 
-                                                                       `Mầm xanh tình nguyện` <br/>  <br/> 
-- `Link`[https://doitinhnguyenmamxanh.000webhostapp.com/ ](https://doitinhnguyenmamxanh.000webhostapp.com/ )<br/><br/> <br/> 
-- `HTML`  `Bootstrap` `JavaScript` <br/> <br/><br/> <br/>
+<a href="https://user-images.githubusercontent.com/91412382/138232934-cfa4ab03-10a2-49bd-b963-f9822256c675.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138232934-cfa4ab03-10a2-49bd-b963-f9822256c675.png"></a> 
+                                                                       `Entrepreneurship-Club` <br/>  <br/> 
+- `Link`[https://ficentrepreneurshipclub.github.io/fic-/](https://ficentrepreneurshipclub.github.io/fic-/)<br/><br/> <br/> 
+- `HTML5`  `CSS3` `JavaScript` <br/> <br/><br/> <br/>
 - ## Đội tình nguyện Mầm Xanh
 <a href="https://user-images.githubusercontent.com/91412382/138234554-51f938aa-0edc-4e32-9749-884c80c74799.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138234554-51f938aa-0edc-4e32-9749-884c80c74799.png"></a> 
                                                                        `Mầm xanh tình nguyện` <br/>  <br/> 
