@@ -18,7 +18,7 @@
 - `CSS3`  `SASS`  
 - `ES6` `Jquery`
 - `ReactJS` `React Hook` `Redux`
-- `Meterial UI` `Firebase`
+- `Meterials UI` `Firebase`
 <br/> <br/>
 ## Projects for sharing<br/> <br/>
 
@@ -35,12 +35,12 @@
                                                                        `Remember Library` <br/>  <br/> 
 - `Link`[https://rememberlibrary.github.io/library/](https://rememberlibrary.github.io/library/)<br/><br/> <br/> 
 - `HTML5`  `CSS3` <br/> <br/><br/> <br/>
-- ## Entrepreneurship-Club
+## Entrepreneurship-Club
 <a href="https://user-images.githubusercontent.com/91412382/138232934-cfa4ab03-10a2-49bd-b963-f9822256c675.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138232934-cfa4ab03-10a2-49bd-b963-f9822256c675.png"></a> 
                                                                        `Entrepreneurship-Club` <br/>  <br/> 
 - `Link`[https://ficentrepreneurshipclub.github.io/fic-/](https://ficentrepreneurshipclub.github.io/fic-/)<br/><br/> <br/> 
 - `HTML5`  `CSS3` `JavaScript` <br/> <br/><br/> <br/>
-- ## Đội tình nguyện Mầm Xanh
+## Đội tình nguyện Mầm Xanh
 <a href="https://user-images.githubusercontent.com/91412382/138234554-51f938aa-0edc-4e32-9749-884c80c74799.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138234554-51f938aa-0edc-4e32-9749-884c80c74799.png"></a> 
                                                                        `Mầm xanh tình nguyện` <br/>  <br/> 
 - `Link`[https://doitinhnguyenmamxanh.000webhostapp.com/ ](https://doitinhnguyenmamxanh.000webhostapp.com/ )<br/><br/> <br/> 
