@@ -5,7 +5,7 @@
 
 <!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
 <!-- ![image](https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png) -->
-#  Trọng Phúc ✨ Front-end WEB<img width="auto" height="auto" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"> <img align="right" top="0" width="auto" height="150" src="https://raw.githubusercontent.com/Rememberlibrary/library/main/assets/img/%E2%80%94Pngtree%E2%80%94blue%20technology%20planet%20cartoon%20illustration_3979254.png"> 
+#  Trọng Phúc ✨ Front-end WEB<img width="auto" height="50" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"> <img align="right" top="0" width="auto" height="150" src="https://raw.githubusercontent.com/Rememberlibrary/library/main/assets/img/%E2%80%94Pngtree%E2%80%94blue%20technology%20planet%20cartoon%20illustration_3979254.png"> 
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
