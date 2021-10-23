@@ -21,7 +21,7 @@ RememberLibrary:https://rememberlibrary.github.io/library/ <br/>
 
 
 <!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
-![image](https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png)
+<!-- ![image](https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png) -->
 # Trong Phuc - Frontend WEB
 
 - Open and friendly.
@@ -30,23 +30,14 @@ RememberLibrary:https://rememberlibrary.github.io/library/ <br/>
 
 ## Working <a href="https://github.com/Rememberlibrary"><img align="left" width="auto" height="200" src="https://avatars.githubusercontent.com/u/91412382?s=400&u=c90a5e7ff5d491ba5e86f3d8bd9db8be018a6f6c&v=4"></a>
 
-- `SSE` at fram^: [https://wearefram.com/](https://wearefram.com/)
-- `Instructor` at Nordic Coder: [view it on Nordic Coder website](https://nordiccoder.com/khoa-hoc/khoa-hoc-web-front-end-development/)
-- `Owner` of a `more than 5k subs` Youtube Channel sharing about Frontend: `Easy Frontend` [https://youtube.com/easyfrontend](https://youtube.com/easyfrontend?sub_confirmation=1)
-- `Owner` of website [https://www.ezfrontend.com/](https://www.ezfrontend.com/) where I can share my favorite topics via blog posts.
-
-## Projects for teaching
-
-- Tic tac toe game: https://github.com/paulnguyen-mn/js-tic-tac-toe
-- Color matching game: https://github.com/paulnguyen-mn/color-matching-game
-- JS todo app: https://github.com/paulnguyen-mn/js-todo-app
-- Post UI: https://github.com/paulnguyen-mn/posts-ui
-- Post API: https://github.com/paulnguyen-mn/posts-api
+- `HTML`
+- `CSS / SCSS` 
+- `JavaScript`
+- `ReactJS` <br/> <br/>
 
 ## Projects for sharing
 
-- use-scroll-progress hook: https://github.com/paulnguyen-mn/use-scroll-progress
-- ReactJS App: https://github.com/paulnguyen-mn/redux-photo-app
+<a href="https://rememberlibrary.github.io/chats"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png"></a>
 
 
 <!--
