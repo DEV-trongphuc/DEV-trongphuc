@@ -47,8 +47,7 @@
                                                                        `Mầm xanh tình nguyện` <br/>  <br/> 
 - `Link`[https://doitinhnguyenmamxanh.000webhostapp.com/ ](https://doitinhnguyenmamxanh.000webhostapp.com/ )<br/><br/> <br/> 
 - `HTML`  `Bootstrap` `JavaScript` <br/> <br/><br/> <br/> <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rememberlibrary&show_icons=true&theme=jolly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rememberlibrary&repo=messages)](https://github.com/Rememberlibrary/messages)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rememberlibrary&show_icons=true&theme=blue-green)
 
 
 
