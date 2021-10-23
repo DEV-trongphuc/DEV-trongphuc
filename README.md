@@ -26,9 +26,9 @@ RememberLibrary:https://rememberlibrary.github.io/library/ <br/>
 ## Working <a href="https://github.com/Rememberlibrary"><img align="left" width="auto" height="200" src="https://avatars.githubusercontent.com/u/91412382?s=400&u=c90a5e7ff5d491ba5e86f3d8bd9db8be018a6f6c&v=4"></a>
 
 - `HTML`
-- `CSS / SCSS` 
-- `JavaScript`
-- `ReactJS`  
+- `CSS ` `SASS`  
+- `JavaScript` `Jquery`
+- `ReactJS` `React Hook` `Redux`
 <br/> <br/>
 ## Projects for sharing<br/> <br/>
 
