@@ -17,6 +17,7 @@
 - `ES6` `Jquery` `Typescript`
 - `ReactJS` `React Hook` `Redux`
 - `Meterials UI` `Firebase`           
+<img align="right" width="auto" height="80" src="https://anhdephd.com/wp-content/uploads/2019/03/anh-dong-icon-dep-trang-tri-thiet-ke-331.gif"> 
 ## <p align="center">PROJECT FOR SHARING</p>
 
 ## Remember Messages `✨NEW✨` `22/10/2021`
@@ -48,7 +49,6 @@
 - `Link`[https://doitinhnguyenmamxanh.000webhostapp.com/ ](https://doitinhnguyenmamxanh.000webhostapp.com/ )<br/><br/> <br/> 
 - `HTML`  `Bootstrap` `JavaScript` <br/> <br/><br/> <br/> <br/>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rememberlibrary&show_icons=true&theme=blue-green) -->
-<img align="right" width="auto" height="80" src="https://anhdephd.com/wp-content/uploads/2019/03/anh-dong-icon-dep-trang-tri-thiet-ke-331.gif"> 
 
 
 
