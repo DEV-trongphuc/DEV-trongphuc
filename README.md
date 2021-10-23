@@ -1,16 +1,5 @@
 
 
-MAXA: <br/> 
-![image]() <br/> <br/> <br/>
-FIC:  <br/> 
-![image]() <br/> <br/> <br/>
-
-My friend is a Photographer: https://lamnhutlinh.github.io/piolinhs/ <br/>
-![image](https://user-images.githubusercontent.com/91412382/138233280-3cd56f89-7d6b-473c-be91-447e3fbbcfb1.png) <br/> <br/> <br/>
-
-RememberLibrary: <br/> 
-![image]() <br/> <br/> <br/>
-
 
 
 
@@ -32,7 +21,7 @@ RememberLibrary: <br/>
 <br/> <br/>
 ## Projects for sharing<br/> <br/>
 
-## Remember Messages
+## Remember Messages `✨NEW✨`
 
 <a href="https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png"></a> 
 <a href="https://user-images.githubusercontent.com/91412382/138550682-4464497f-8165-4c2d-b187-8bcbeec1f3fd.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138550682-4464497f-8165-4c2d-b187-8bcbeec1f3fd.png"></a>
@@ -54,6 +43,11 @@ RememberLibrary: <br/>
 <a href="https://user-images.githubusercontent.com/91412382/138234554-51f938aa-0edc-4e32-9749-884c80c74799.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138234554-51f938aa-0edc-4e32-9749-884c80c74799.png"></a> 
                                                                        `Mầm xanh tình nguyện` <br/>  <br/> 
 - `Link`[https://doitinhnguyenmamxanh.000webhostapp.com/ ](https://doitinhnguyenmamxanh.000webhostapp.com/ )<br/><br/> <br/> 
+- `HTML`  `Bootstrap` `JavaScript` <br/> <br/><br/> <br/>
+- - ## Photographer
+<a href="https://user-images.githubusercontent.com/91412382/138233280-3cd56f89-7d6b-473c-be91-447e3fbbcfb1.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138233280-3cd56f89-7d6b-473c-be91-447e3fbbcfb1.png"></a> 
+                                                                       `Photographer` <br/>  <br/> 
+- `Link`[https://lamnhutlinh.github.io/piolinhs/](https://lamnhutlinh.github.io/piolinhs/)<br/><br/> <br/> 
 - `HTML`  `Bootstrap` `JavaScript` <br/> <br/><br/> <br/>
 
 
