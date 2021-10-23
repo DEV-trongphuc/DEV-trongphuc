@@ -5,7 +5,7 @@
 
 <!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
 <!-- ![image](https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png) -->
-# ✨ Trọng Phúc ✨ Front-end WEB ✨ 
+# ✨ Trọng Phúc | Front-end WEB ✨ 
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
