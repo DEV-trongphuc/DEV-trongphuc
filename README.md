@@ -5,7 +5,7 @@
 
 <!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
 <!-- ![image](https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png) -->
-#  Trọng Phúc ✨ Front-end WEB <img align="right" width="auto" height="200" src="https://raw.githubusercontent.com/Rememberlibrary/library/main/assets/img/%E2%80%94Pngtree%E2%80%94blue%20technology%20planet%20cartoon%20illustration_3979254.png"> 
+#  Trọng Phúc ✨ Front-end WEB <img align="right" width="auto" height="250" src="https://raw.githubusercontent.com/Rememberlibrary/library/main/assets/img/%E2%80%94Pngtree%E2%80%94blue%20technology%20planet%20cartoon%20illustration_3979254.png"> 
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
