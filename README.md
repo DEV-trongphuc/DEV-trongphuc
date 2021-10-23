@@ -11,16 +11,15 @@
 - Love to learn new things, especially things related to Frontend stacks.
 - Enjoy working with ❤ [ Javascript + HTML/CSS ] && [ ReactJS + SASS ] ❤
 
-## <p align="center"> Working </p> 
-<a href="https://github.com/Rememberlibrary"><img align="left" width="auto" height="200" src="https://avatars.githubusercontent.com/u/91412382?s=400&u=c90a5e7ff5d491ba5e86f3d8bd9db8be018a6f6c&v=4"></a> <br/> <br/>
+## <p align="center"> WORKING </p> 
+<a href="https://github.com/Rememberlibrary"><img align="left" width="auto" height="200" src="https://avatars.githubusercontent.com/u/91412382?s=400&u=c90a5e7ff5d491ba5e86f3d8bd9db8be018a6f6c&v=4"></a> <br/> 
 - `HTML5`
 - `CSS3`  `SASS`  
 - `ES6` `Jquery` `Typescript`
 - `ReactJS` `React Hook` `Redux`
 - `Meterials UI` `Firebase`
 <br/> <br/> <br/> <br/> <br/>
-## <p align="center"> Working </p> 
-
+## <p align="center"> PROJECTS FOR SHARING </p> 
  <br/>
 
 ## Remember Messages `✨NEW✨` `22/10/2021`
