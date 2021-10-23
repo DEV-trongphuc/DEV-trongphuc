@@ -15,7 +15,7 @@
 ## Working <a href="https://github.com/Rememberlibrary"><img align="left" width="auto" height="200" src="https://avatars.githubusercontent.com/u/91412382?s=400&u=c90a5e7ff5d491ba5e86f3d8bd9db8be018a6f6c&v=4"></a>
 - `HTML5`
 - `CSS3`  `SASS`  
-- `ES6` `Jquery`
+- `ES6` `Jquery` `Typescript`
 - `ReactJS` `React Hook` `Redux`
 - `Meterials UI` `Firebase`
 <br/> <br/>
