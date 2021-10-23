@@ -5,7 +5,7 @@
 
 <!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
 <!-- ![image](https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png) -->
-#  Trọng Phúc <img width="auto" height="40" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"> Front-end WEB <img align="right" top="0" width="auto" height="80" src="https://anhdephd.com/wp-content/uploads/2019/03/anh-dong-icon-dep-trang-tri-thiet-ke-70.gif"> 
+#  Trọng Phúc <img width="auto" height="40" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"> Front-end WEB <img align="right" top="0" width="auto" height="50" src="https://anhdephd.com/wp-content/uploads/2019/03/anh-dong-icon-dep-trang-tri-thiet-ke-70.gif"> 
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
