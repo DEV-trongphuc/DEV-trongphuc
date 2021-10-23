@@ -17,8 +17,8 @@
 - `ES6` `Jquery` `Typescript`
 - `ReactJS` `React Hook` `Redux`
 - `Meterials UI` `Firebase`
-<br/> <br/><br/><br/>
-## <span align="center">Projects for sharing </span> <br/> <br/>
+<br/> <br/><br/>
+## <p align="center">PROJECT FOR SHARING</p> <br/> <br/>
 
 ## Remember Messages `✨NEW✨` `22/10/2021`
 
