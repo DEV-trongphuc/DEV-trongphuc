@@ -26,7 +26,7 @@ RememberLibrary:https://rememberlibrary.github.io/library/ <br/>
 ## Working <a href="https://github.com/Rememberlibrary"><img align="left" width="auto" height="200" src="https://avatars.githubusercontent.com/u/91412382?s=400&u=c90a5e7ff5d491ba5e86f3d8bd9db8be018a6f6c&v=4"></a>
 
 - `HTML`
-- `CSS ` `SASS`  
+- `CSS `  `SASS`  
 - `JavaScript` `Jquery`
 - `ReactJS` `React Hook` `Redux`
 <br/> <br/>
@@ -37,7 +37,7 @@ RememberLibrary:https://rememberlibrary.github.io/library/ <br/>
 <a href="https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png"></a> 
 <a href="https://user-images.githubusercontent.com/91412382/138550682-4464497f-8165-4c2d-b187-8bcbeec1f3fd.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138550682-4464497f-8165-4c2d-b187-8bcbeec1f3fd.png"></a>
                                                                        `Remember Messages`
-- `Link Demo`[https://rememberlibrary.github.io/messages](https://rememberlibrary.github.io/messages)<br/><br/>
+- `Link`[https://rememberlibrary.github.io/messages](https://rememberlibrary.github.io/messages)<br/><br/>
 - `JavaScript`  `ReactJS` <br/> 
 
 
