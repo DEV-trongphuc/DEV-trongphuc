@@ -22,7 +22,7 @@
 ## Đội tình nguyện Mầm Xanh `✨ REACT ✨`
 <a href="![image](https://user-images.githubusercontent.com/91412382/177033728-9bf14e4d-ec74-46d9-b204-30454230de7d.png)"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/177033728-9bf14e4d-ec74-46d9-b204-30454230de7d.png"></a> 
                                                                        `Mầm xanh tình nguyện` <br/>  <br/> 
-- `Link`[[https://mamxanh.tk/](https://mamxanh.tk/kythuat/cs6)]([https://mamxanh.tk/](https://mamxanh.tk/kythuat/cs6))<br/><br/> <br/> 
+- `Link`[[https://mamxanh.tk/](https://mamxanh.tk/kythuat/cs6)]([https://mamxanh.tk/kythuat/cs6](https://mamxanh.tk/kythuat/cs6))<br/><br/> <br/> 
 -  `SASS` `REACT JS` <br/> <br/><br/> <br/> 
 ## Bất động sản LA-QueenNara
 
