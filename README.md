@@ -20,19 +20,10 @@
           
 ## <p align="center">PROJECT FOR SHARING</p>
 ## Đội tình nguyện Mầm Xanh `✨ REACT ✨`
-<a href="https://user-images.githubusercontent.com/91412382/146239104-ada54865-8024-4472-b625-1cfb6e3885a5.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/146239081-c25ee69c-dfc0-4651-8f14-1d50adf797c4.png"></a> 
+<a href="![image](https://user-images.githubusercontent.com/91412382/177033728-9bf14e4d-ec74-46d9-b204-30454230de7d.png)"><img align="left" width="auto" height="200" src="[https://user-images.githubusercontent.com/91412382/146239081-c25ee69c-dfc0-4651-8f14-1d50adf797c4.png](https://user-images.githubusercontent.com/91412382/177033728-9bf14e4d-ec74-46d9-b204-30454230de7d.png)"></a> 
                                                                        `Mầm xanh tình nguyện` <br/>  <br/> 
 - `Link`[https://mamxanh.tk/](https://mamxanh.tk/)<br/><br/> <br/> 
 -  `SASS` `REACT JS` <br/> <br/><br/> <br/> 
-
-## 
-Messages `✨ REACT ✨`
-
-<a href="https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png"></a> 
-<a href="https://user-images.githubusercontent.com/91412382/138550682-4464497f-8165-4c2d-b187-8bcbeec1f3fd.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138550682-4464497f-8165-4c2d-b187-8bcbeec1f3fd.png"></a>
-                                                                       `Remember Messages` <br/>  <br/> 
-- `Link`[https://dev-trongphuc.github.io/messages](https://dev-trongphuc.github.io/messages)<br/><br/>
-- `JavaScript`  `ReactJS` `Firebase` `ChatEngine`<br/> <br/><br/> <br/><br/>
 ## Bất động sản LA-QueenNara
 
 <a href="![image](https://user-images.githubusercontent.com/91412382/177033578-f8a5c703-3c8d-49a4-8ffe-372ad49172a0.png)
@@ -46,6 +37,14 @@ Messages `✨ REACT ✨`
                                                                        `Remember Library` <br/>  <br/> 
 - `Link`[https://dev-trongphuc.github.io/library/](https://dev-trongphuc.github.io/library/)<br/><br/> <br/> 
 - `HTML5`  `CSS3` <br/> <br/><br/> <br/>
+## 
+Messages `✨ REACT ✨`
+
+<a href="https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138463879-7ad3d145-4d19-4df2-9ef6-69ac883814f3.png"></a> 
+<a href="https://user-images.githubusercontent.com/91412382/138550682-4464497f-8165-4c2d-b187-8bcbeec1f3fd.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138550682-4464497f-8165-4c2d-b187-8bcbeec1f3fd.png"></a>
+                                                                       `Remember Messages` <br/>  <br/> 
+- `Link`[https://dev-trongphuc.github.io/messages](https://dev-trongphuc.github.io/messages)<br/><br/>
+- `JavaScript`  `ReactJS` `Firebase` `ChatEngine`<br/> <br/><br/> <br/><br/>
 ## Entrepreneurship-Club
 <a href="https://user-images.githubusercontent.com/91412382/138232934-cfa4ab03-10a2-49bd-b963-f9822256c675.png"><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/138232934-cfa4ab03-10a2-49bd-b963-f9822256c675.png"></a> 
                                                                        `Entrepreneurship-Club` <br/>  <br/> 
