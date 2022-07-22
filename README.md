@@ -121,3 +121,32 @@ Here are some ideas to get you started:
 -[W Motors](https://supercar-universe.tk/brands/wmotors):[https://supercar-universe.tk/brands/wmotors](https://supercar-universe.tk/brands/wmotors)<br/><br/>
 -[Zenvo](https://supercar-universe.tk/brands/zenvo):[https://supercar-universe.tk/brands/zenvo](https://supercar-universe.tk/brands/zenvo)<br/><br/>
 
+Bugatti hãng siêu xe nổi tiếng của nước Đức và hành trình hồi sinh mạnh mẽ
+
+Bugatti là hãng xe của nước Đức
+Tên đầy đủ:  Automobiles Ettore Bugatti
+Thành lập: 1909
+Trụ sở chính: Molsheim, Pháp
+Nhà sáng lập: Ettore Bugatti
+Tất cả dòng siêu xe từng được sản xuất:  Bugatti La Voiture Noire, Bugatti Chiron, Chiron Super Sport, Bugatti Veyron, Bugatti Centodieci, Bugatti Divo,...
+______________________________________________
+
+
+Giới thiệu hãng siêu xe Bugatti
+Bugatti tên đầy đủ là Automobiles Ettore Bugatti là hãng xe chuyên sản sinh ra những chiếc siêu xe nhanh và đắt giá bật nhất trên thế giới. Được thành lập bởi Ettore Bugatti vào năm 1909 tại thành phố Molsheim lúc đó thuộc nước Đức. 
+
+Trải qua những năm tháng huy hoàng chiến thắng có, thăng trầm có mãi đến sau cái chết của Ettore Bugatti và cậu con trai Jean Bugatti khiến Bugatti không có người thừa kế và gồng gánh tài chính đến năm 1963 bị mua lại để kinh doanh phụ tùng máy bay.
+Đến năm 1990 một doanh nhân người Ý đã mua lại và vực dậy Bugatti, ông đã hồi sinh hãng xe Bugatti và ngày nay thuộc sự sở hữu của Tập đoàn Volkswagen.
+
+Các siêu xe nổi tiếng tung hoành thị trường Siêu xe thể thao giới hạn của Bugatti có thể kể đến: Bugatti Chiron Super Sport được xem là siêu xe có tốc độ cao thuộc hàng top đầu hiện tại, hay Bugatti La Voiture Noire một trong top siêu xe đắt giá nhất mọi thời đại.
+Tóm lại Bugatti là hãng sản xuất siêu xe triệu đô tốc độ cao của nước Đức, với lối thiết kế đặc trưng phong cách thể thao dễ nhận diện và đặt biệt là tốc độ bức phá thần tốc.
+Xem thêm chi tiết thông số các dòng siêu xe của Bugatti tại Vũ Trụ Siêu Xe - Supercar Universe: https://supercar-universe.tk/brands/bugatti
+______________________________________________
+Cùng Vũ Trụ SIêu Xe - Supercar Universe tìm hiểu về các hãng siêu xe nổi tiếng trên thế giới.
+Home: https://supercar-universe.tk/
+Email: universe.supercar@gmail.com
+Địa chỉ: 56 Hoàng Diệu 2, Linh Chiểu, TP Thủ Đức TP Hồ Chí Minh
+
+
+
+
