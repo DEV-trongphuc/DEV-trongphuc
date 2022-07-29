@@ -33,10 +33,10 @@
 - `HTML5` `JS`  `CSS3` <br/> <br/><br/> <br/>
 ## Vũ Trụ Siêu Xe - Supercar Universe
 
-<a href="https://supercar-universe.tk
+<a href="https://vutrusieuxe.netlify.app/
 "><img align="left" width="auto" height="200" src="https://user-images.githubusercontent.com/91412382/180219038-0bfe5cc7-7821-4a74-be10-99eafef4a2a0.png"></a> 
                                                                        `Vũ Trụ Siêu Xe - Supercar Universe` <br/>  <br/> 
-- `Link`[https://supercar-universe.tk/](https://supercar-universe.tk/)<br/><br/> <br/> 
+- `Link`[https://vutrusieuxe.netlify.app/](https://vutrusieuxe.netlify.app/)<br/><br/> <br/> 
 - `REACTJS` `SCSS`  `SEO` `LOVE` <br/> <br/><br/> <br/>
 ## Remember Library HTML/CSS
 
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 -[Land Rover](https://supercar-universe.tk/brands/land-rover):[https://supercar-universe.tk/brands/land-rover](https://supercar-universe.tk/brands/land-rover)<br/><br/> 
 -[Lexus](https://supercar-universe.tk/brands/lexus):[https://supercar-universe.tk/brands/lexus](https://supercar-universe.tk/brands/lexus)<br/><br/> 
 -[Maserati](https://supercar-universe.tk/brands/maserati):[https://supercar-universe.tk/brands/maserati](https://supercar-universe.tk/brands/maserati)<br/><br/>
--[MC Laren](https://supercar-universe.tk/brands/mclaren):[https://supercar-universe.tk/brands/mclaren](https://supercar-universe.tk/brands/mclaren)<br/><br/>
+-[MC Laren](https://supercar-universe.tk/brands/mclaren):[https://vutrusieuxe.netlify.app/brands/mclaren](https://supercar-universe.tk/brands/mclaren)<br/><br/>
 -[Mercedes Benz](https://supercar-universe.tk/brands/mercedes-benz):[https://supercar-universe.tk/brands/mercedes-benz](https://supercar-universe.tk/brands/mercedes-benz)<br/><br/>
 -[noble](https://supercar-universe.tk/brands/noble):[https://supercar-universe.tk/brands/noble](https://supercar-universe.tk/brands/noble)<br/><br/>
 -[Pagani](https://supercar-universe.tk/brands/pagani):[https://supercar-universe.tk/brands/pagani](https://supercar-universe.tk/brands/pagani)<br/><br/>
@@ -143,7 +143,7 @@ Tóm lại Bugatti là hãng sản xuất siêu xe triệu đô tốc độ cao 
 Xem thêm chi tiết thông số các dòng siêu xe của Bugatti tại Vũ Trụ Siêu Xe - Supercar Universe: https://supercar-universe.tk/brands/bugatti
 ______________________________________________
 Cùng Vũ Trụ SIêu Xe - Supercar Universe tìm hiểu về các hãng siêu xe nổi tiếng trên thế giới.
-Home: https://supercar-universe.tk/
+Home: https://vutrusieuxe.netlify.app/
 Email: universe.supercar@gmail.com
 Địa chỉ: 56 Hoàng Diệu 2, Linh Chiểu, TP Thủ Đức TP Hồ Chí Minh
 
