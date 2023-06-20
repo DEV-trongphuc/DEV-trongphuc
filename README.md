@@ -19,23 +19,23 @@
 - `ReactJS`
           
 ## <p align="center">PROJECT FOR SHARING</p>
-## Viện nghiên cứu phát triển và trao đổi khoa hoc ứng dụng - IDEAS INSTITUTE `✨ HTML/CSS ✨`
-<a href="![image](https://github.com/DEV-trongphuc/DEV-trongphuc/assets/91412382/30a00701-58f1-4e64-b89f-7b66d576073b)"><img align="left" width="auto" height="200" src="![image](https://github.com/DEV-trongphuc/DEV-trongphuc/assets/91412382/30a00701-58f1-4e64-b89f-7b66d576073b)
+## Viện nghiên cứu phát triển và trao đổi khoa hoc ứng dụng - IDEAS INSTITUTE
+<a href="https://github.com/DEV-trongphuc/DEV-trongphuc/assets/91412382/30a00701-58f1-4e64-b89f-7b66d576073b"><img align="left" width="auto" height="200" src="https://github.com/DEV-trongphuc/DEV-trongphuc/assets/91412382/30a00701-58f1-4e64-b89f-7b66d576073b
 "></a> 
-                                                                       `Mầm xanh tình nguyện` <br/>  <br/> 
-- `Link`[https://ubisglobal.edu.vn/thac-si-quan-tri-kinh-doanh/](https://ubisglobal.edu.vn/thac-si-quan-tri-kinh-doanh/))=<br/><br/> <br/> 
+                                                                       `Viện nghiên cứu phát triển và trao đổi khoa hoc ứng dụng - IDEAS INSTITUTE` <br/>  <br/> 
+- `Link`[https://ideas.edu.vn/](https://ideas.edu.vn/))=<br/><br/> <br/> 
 -  `SASS` `Javascript` `HTML/CSS` <br/> <br/><br/> <br/> 
 ## Đại học UBIS Hoa Kỳ `✨ HTML/CSS ✨`
-<a href="![image](https://github.com/DEV-trongphuc/DEV-trongphuc/assets/91412382/089af7c9-d8b0-4b62-bbe8-0493268d2b90)"><img align="left" width="auto" height="200" src="![image](https://github.com/DEV-trongphuc/DEV-trongphuc/assets/91412382/089af7c9-d8b0-4b62-bbe8-0493268d2b90)
+<a href="https://github.com/DEV-trongphuc/DEV-trongphuc/assets/91412382/089af7c9-d8b0-4b62-bbe8-0493268d2b90"><img align="left" width="auto" height="200" src="https://github.com/DEV-trongphuc/DEV-trongphuc/assets/91412382/089af7c9-d8b0-4b62-bbe8-0493268d2b90
 "></a> 
-                                                                       `Mầm xanh tình nguyện` <br/>  <br/> 
+                                                                       `Đại học UBIS Hoa Kỳ` <br/>  <br/> 
 - `Link`[https://ubisglobal.edu.vn/thac-si-quan-tri-kinh-doanh/](https://ubisglobal.edu.vn/thac-si-quan-tri-kinh-doanh/))=<br/><br/> <br/> 
 -  `SASS` `Javascript` `HTML/CSS` <br/> <br/><br/> <br/> 
 ## Đại học UMEF Thụy Sĩ `✨ HTML/CSS ✨`
-<a href="![image](https://github.com/DEV-trongphuc/DEV-trongphuc/assets/91412382/6d9d9415-5efb-4462-91e8-ec21ec77b214)"><img align="left" width="auto" height="200" src="![image](https://github.com/DEV-trongphuc/DEV-trongphuc/assets/91412382/6d9d9415-5efb-4462-91e8-ec21ec77b214)
+<a href="https://github.com/DEV-trongphuc/DEV-trongphuc/assets/91412382/6d9d9415-5efb-4462-91e8-ec21ec77b214"><img align="left" width="auto" height="200" src="https://github.com/DEV-trongphuc/DEV-trongphuc/assets/91412382/6d9d9415-5efb-4462-91e8-ec21ec77b214
 "></a> 
-                                                                       `Mầm xanh tình nguyện` <br/>  <br/> 
-- `Link`[https://ubisglobal.edu.vn/thac-si-quan-tri-kinh-doanh/](https://ubisglobal.edu.vn/thac-si-quan-tri-kinh-doanh/))=<br/><br/> <br/> 
+                                                                       `Đại học UMEF Thụy Sĩ` <br/>  <br/> 
+- `Link`[https://swiss-emba.org/](https://swiss-emba.org/))=<br/><br/> <br/> 
 -  `SASS` `Javascript` `HTML/CSS` <br/> <br/><br/> <br/> 
 
 
