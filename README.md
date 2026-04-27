@@ -1,350 +1,439 @@
 <div align="center">
 
-<!-- HEADER ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EAB308,CA8A04,030303&height=200&section=header&text=TURNIO.&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Huynh%20Trong%20Phuc%20%E2%80%94%20Marketing%20%C3%97%20Automation%20%C3%97%20Code&descAlignY=60&descSize=18" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=EAB308&center=true&vCenter=true&width=700&lines=CEO+%26+Founder+%40+DOMATION;Performance+Marketing+Expert;Fullstack+Developer+%7C+React+%2B+Node;Meta+Ads+API+%2B+Automation+Builder;11K%2B+TikTok+Coding+Followers+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:EAB308,100:CA8A04&height=220&section=header&text=TURNIO.&fontSize=96&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Huynh%20Trong%20Phuc%20%E2%80%94%20Marketing%20%C3%97%20Automation%20%C3%97%20Code&descAlignY=62&descSize=20&descColor=EAB308" width="100%"/>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://domation.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_DOMATION-EAB308?style=for-the-badge&logoColor=black&labelColor=030303" />
-  </a>
-  <a href="https://portfo-turnio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=030303" />
-  </a>
-  <a href="https://www.tiktok.com/@turnio.dev" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-11K+-010101?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/turnio-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=EAB308&center=true&vCenter=true&multiline=false&width=720&lines=CEO+%26+Founder+%40+DOMATION+%F0%9F%9A%80;Performance+Marketing+Expert+%7C+500M+VND%2FMonth;Fullstack+Dev+%7C+React+%2B+Node+%2B+Zalo+Mini+App;Meta+Ads+API+%2B+Automation+%2B+AI+Integration;11K%2B+TikTok+Coding+Followers+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=turniodev&label=Profile+Views&color=EAB308&style=flat-square" />
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://portfo-turnio.vercel.app/)
+[![DOMATION](https://img.shields.io/badge/DOMATION-EAB308?style=for-the-badge&logo=lightning&logoColor=black)](https://domation.vercel.app/)
+[![TikTok](https://img.shields.io/badge/TikTok_11K%2B-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@turnio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turnio-dev/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=turniodev&label=Profile+Views&color=EAB308&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/turniodev?label=Followers&style=flat-square&color=EAB308)
 
 </div>
 
+<br/>
+
 ---
 
-## ⚡ Về tôi — The Bridge Between Marketing & Code
+<div align="center">
+
+## ` ⚡ ABOUT ME `
+
+</div>
 
 ```typescript
-const TURNIO = {
-  name:     "Huynh Trong Phuc",
-  alias:    "TURNIO",
-  role:     "CEO Founder @ DOMATION",
-  location: "Ho Chi Minh City, Vietnam 🇻🇳",
+/**
+ * ╔══════════════════════════════════════════════════════════════╗
+ * ║              TURNIO — The Hybrid Specialist                  ║
+ * ║        Marketing × Development × Automation                  ║
+ * ╚══════════════════════════════════════════════════════════════╝
+ */
+const profile = {
+  name       : "Huynh Trong Phuc",
+  alias      : "TURNIO",
+  role       : "CEO Founder @ DOMATION",
+  location   : "Ho Chi Minh City, Vietnam  🇻🇳",
+  education  : "Banking University HCMC  |  2019 – 2023",
 
   superpowers: [
-    "Performance Marketing (Meta Ads, Google Ads)",
-    "Fullstack Dev (React, Node, Zalo Mini App)",
-    "Process Automation (n8n, Zapier, GAS)",
-    "Real-time Reporting & CRM Integration",
-    "Server-Side Tracking (Meta CAPI, GTM Server)",
+    "📣  Performance Marketing  (Meta Ads · Google Ads · TikTok Ads)",
+    "💻  Fullstack Development  (React · Next.js · Node · Zalo Mini App)",
+    "⚡  Process Automation     (n8n · Zapier · Google Apps Script)",
+    "📡  Real-time Reporting    (Meta CAPI · GTM Server · Looker Studio)",
+    "🤖  AI Integration         (Lead Scoring · Multimodal · Auto-content)",
   ],
 
-  philosophy: "Chạm đúng người · Đúng thời điểm · Tự động hoàn toàn",
+  stats: {
+    monthlyBudget   : "500,000,000 VND",
+    avgROAS         : "4.8x",
+    leadsGenerated  : "150,000+",
+    brandsManaged   : "18+",
+    tiktokFollowers : "11,000+",
+    leadToCRM       : "< 5 seconds",
+  },
 
-  currentFocus: "DOMATION — Multi-channel Automation Platform",
-  tiktokSubs:   "11,000+ coding followers",
-  monthlyBudget:"500,000,000 VND",
-  avgROAS:      "4.8x",
-  leadsGenerated:"150,000+",
+  philosophy: "Chạm đúng người · Đúng thời điểm · Tự động hoàn toàn ⚡",
 };
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=turniodev&show_icons=true&theme=radical&bg_color=030303&border_color=EAB308&title_color=EAB308&text_color=ffffff&icon_color=EAB308&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turniodev&layout=compact&theme=radical&bg_color=030303&border_color=EAB308&title_color=EAB308&text_color=ffffff&hide_border=false&langs_count=8"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turniodev&theme=dark&background=030303&border=EAB308&stroke=EAB308&ring=EAB308&fire=FF4500&currStreakNum=ffffff&sideNums=EAB308&currStreakLabel=EAB308&sideLabels=ffffff&dates=888888" />
-</div>
+<br/>
 
 ---
 
-## 🏆 Key Metrics
-
 <div align="center">
 
-| 📈 Chỉ Số | 💡 Con Số | 🎯 Context |
-|:---:|:---:|:---:|
-| 🎵 TikTok Followers | **11,000+** | Coding & Marketing content |
-| 💰 Monthly Ad Budget | **500M VND** | Across all clients |
-| 📊 Average ROAS | **4.8x** | Across campaigns |
-| 🎯 Leads Generated | **150,000+** | Total across projects |
-| 🏢 Brands Managed | **18+** | FnB, Edu, Franchise |
-| ⚡ Lead Speed to CRM | **< 5 seconds** | Automated pipeline |
+## ` 📊 GITHUB STATS `
+
+<br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=turniodev&show_icons=true&bg_color=0D0D0D&border_color=EAB308&title_color=EAB308&text_color=ffffff&icon_color=EAB308&hide_border=false&count_private=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turniodev&layout=compact&bg_color=0D0D0D&border_color=EAB308&title_color=EAB308&text_color=ffffff&hide_border=false&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=turniodev&theme=dark&background=0D0D0D&border=EAB308&stroke=EAB308&ring=EAB308&fire=FF6B00&currStreakNum=EAB308&sideNums=EAB308&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
 
 </div>
+
+<br/>
 
 ---
 
-## 🛠 Tech Stack & Arsenal
+<div align="center">
+
+## ` 🏆 KEY METRICS `
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/TikTok_Followers-11K%2B-EAB308?style=for-the-badge&logo=tiktok&logoColor=black" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Monthly_Budget-500M_VND-00C851?style=for-the-badge&logo=googleads&logoColor=white" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Avg_ROAS-4.8x-FF6B35?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Leads_Generated-150K%2B-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Brands_Managed-18%2B-9B59B6?style=for-the-badge&logo=shopify&logoColor=white" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Lead_Speed-less_5s-00BCD4?style=for-the-badge&logo=zap&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
 
 <div align="center">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### ⚙️ Backend & Automation
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-
-### 📊 Data & Marketing Tech
-![Meta Ads](https://img.shields.io/badge/Meta_Ads_API-1877F2?style=for-the-badge&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![GTM Server](https://img.shields.io/badge/GTM_Server-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-### 🗄️ Database & Infra
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+## ` 🛠 TECH STACK & ARSENAL `
 
 </div>
+
+<br/>
+
+**`🎨 Frontend`**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+
+**`⚙️ Backend & Automation`**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GAS](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+
+**`📡 Marketing & Data Tech`**
+
+![Meta Ads](https://img.shields.io/badge/Meta_Ads_API-1877F2?style=flat-square&logo=meta&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![GTM](https://img.shields.io/badge/GTM_Server-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+
+**`🗄️ Database & Infra`**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/CF_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+<br/>
 
 ---
 
 ## 🚀 Flagship Projects
 
+<br/>
+
 ### 🔥 DOMATION — Multi-Channel Automation Platform
-> *CEO & Founder | 2024 – Present*
 
-[![DOMATION](https://img.shields.io/badge/🌐_Live_Demo-domation.vercel.app-EAB308?style=flat-square)](https://domation.vercel.app/)
+> **CEO & Founder · 2024 – Present** &nbsp; · &nbsp; [![Live](https://img.shields.io/badge/Live-domation.vercel.app-EAB308?style=flat-square&logo=vercel&logoColor=black)](https://domation.vercel.app/)
 
-Hệ thống Automation đa thông điệp: **Email → Zalo → Meta → AI**. Chạm đúng người, đúng thời điểm, hoàn toàn tự động.
+Hệ thống Automation đa thông điệp: **Email → Zalo ZNS → Meta Ads → AI Personalization**.  
+Chạm đúng người, đúng thời điểm, hoàn toàn tự động.
 
 ```
-📧 Email Campaigns  →  📱 Zalo ZNS  →  🤖 Meta Ads  →  🧠 AI Personalization
-         ↓                    ↓               ↓                  ↓
-    Open Tracking        Delivery 99%    ROAS 4.8x          Lead Score
+ ┌────────────────────────────────────────────────────────────────┐
+ │                   THE DOMATION PIPELINE                        │
+ ├──────────────┬─────────────────┬──────────────────────────────┤
+ │ 📣  ACQUIRE  │ ⚡  AUTOMATE    │ 📊  ANALYZE                  │
+ ├──────────────┼─────────────────┼──────────────────────────────┤
+ │ Meta Ads     │ Lead → CRM      │ Real-time Dashboard          │
+ │ Google Ads   │ in  < 5 seconds │ ROAS · CAC · Close Rate      │
+ │ Lead Quality │ Zalo ZNS Alert  │ Multi-channel Attribution    │
+ │ Focus        │ AI Lead Score   │ Predictive Analytics         │
+ └──────────────┴─────────────────┴──────────────────────────────┘
 ```
 
----
+<br/>
 
 ### 📡 Realtime Meta Insights Dashboard
 
-<img src="https://raw.githubusercontent.com/turniodev/TurnioSave/refs/heads/main/DEV_ASSET/brand/unnamed%20(21).jpg" width="100%" style="border-radius:12px; border: 1px solid #EAB308"/>
+<img src="https://raw.githubusercontent.com/turniodev/TurnioSave/refs/heads/main/DEV_ASSET/brand/unnamed%20(21).jpg" width="100%"/>
 
-> Hệ thống tự động quét dữ liệu từ **Facebook Ads Manager** và hiển thị báo cáo chi tiết real-time cho khách hàng.
+> Tự động quét **Facebook Ads Manager**, hiển thị báo cáo chi tiết real-time cho khách hàng.
 
-**Tech:** `Meta Ads API` `Node.js` `React` `BigQuery` `Looker Studio`
+`Meta Ads API` &nbsp; `Node.js` &nbsp; `React` &nbsp; `BigQuery` &nbsp; `Looker Studio`
 
----
+<br/>
 
 ### 🔗 Report ↔ CRM Connector
 
-<img src="https://raw.githubusercontent.com/turniodev/TurnioSave/refs/heads/main/DEV_ASSET/brand/unnamed%20(20).jpg" width="100%" style="border-radius:12px; border: 1px solid #3B82F6"/>
+<img src="https://raw.githubusercontent.com/turniodev/TurnioSave/refs/heads/main/DEV_ASSET/brand/unnamed%20(20).jpg" width="100%"/>
 
-> Kết nối đa kênh **(Zalo + Facebook + Web)** → **MISA CRM**, quản lý **100% phễu khách hàng** tự động.
+> Kết nối đa kênh **(Zalo + Facebook + Web)** → **MISA CRM**. Quản lý **100% phễu khách hàng** tự động.
 
-**Tech:** `Zalo OA API` `Meta Graph API` `Google Apps Script` `MISA API`
+`Zalo OA API` &nbsp; `Meta Graph API` &nbsp; `Google Apps Script` &nbsp; `MISA API`
 
----
+<br/>
 
-### 📱 Zalo Mini App — Loyalty & Booking
+### 📱 Zalo Mini App — Loyalty & Booking System
 
-> Mini App trên Zalo: Tích điểm QR, đổi voucher, đặt lịch → đồng bộ Google Calendar. **Không cần cài app.**
+> Tích điểm QR · Đổi voucher · Đặt lịch → Google Calendar sync. **Không cần tải app.**
 
-**Tech:** `Zalo Mini App SDK` `Redux` `Tailwind` `Golang`
+`Zalo Mini App SDK` &nbsp; `Redux` &nbsp; `Tailwind` &nbsp; `Golang`
 
----
+<br/>
 
-### 🛡️ E-commerce Conversion API (Server-side)
+### 🛡️ E-commerce Server-side Tracking
 
-> Khắc phục **iOS 14+ tracking loss** bằng GTM Server-side + Meta CAPI. Tăng độ chính xác dữ liệu **+30%**.
+> Khắc phục **iOS 14+ tracking loss** bằng GTM Server-side + Meta CAPI. Tăng độ chính xác **+30%**.
 
-**Tech:** `GTM Server` `Cloudflare Workers` `Meta CAPI` `Node.js`
+`GTM Server` &nbsp; `Cloudflare Workers` &nbsp; `Meta CAPI` &nbsp; `Node.js`
+
+<br/>
 
 ---
 
 ## 💼 Career Journey
 
-```
-2024 - NOW  ┃  🏢 CEO Founder — DOMATION
-            ┃  └─ Hệ thống automation đa kênh: Email × Zalo × Meta × AI
+<br/>
 
-2023 - 2024 ┃  💻 Digital Marketing & Fullstack Dev — IDEAS Institute
-            ┃  └─ Tăng tuyển sinh MBA x3 | Chi phí/học viên: 18M → 12-14M
-            ┃  └─ 12,600+ Leads | +300% Doanh Số | -30% Chi Phí
+<div align="center">
 
-2022 - 2023 ┃  📣 Digital Marketing — Le Gia ICT
-            ┃  └─ Performance Ads + PBN System + Technical SEO
+| Period | Role | Company | Impact |
+|:---:|:---|:---|:---|
+| `2024 → NOW` | 🏢 **CEO Founder** | DOMATION | Multi-channel Automation SaaS |
+| `2023 – 2024` | 💻 **Digital Marketing & Fullstack Dev** | IDEAS Institute | MBA x3, -30% cost/student |
+| `2022 – 2023` | 📣 **Digital Marketing** | Le Gia ICT | Performance Ads + SEO Systems |
+| `2019 – 2023` | 🎓 **Business Admin - Marketing** | Banking Univ. HCMC | + Fullstack Dev self-taught |
 
-2019 - 2023 ┃  🎓 Banking University HCMC
-            ┃  └─ Quản trị Kinh Doanh - Marketing
-            ┃  └─ Song song học Fullstack Development
-```
+</div>
+
+<br/>
 
 ---
 
 ## 🏆 Outsource Case Studies
 
+<br/>
+
 <details>
-<summary><b>🎓 IDEAS Institute — Education Lead Machine</b></summary>
-<br>
+<summary><b>🎓 IDEAS Institute — 12,600+ Leads | +300% Revenue | -30% Cost</b></summary>
+<br/>
 
-**Result:** `12,600+ Leads` | `+300% Doanh Số` | `-30% Chi Phí`
+Chuyển hoàn toàn từ **Messenger Ads → Lead Form Ads**, phá vỡ mọi giới hạn scale cũ.
 
-Thay đổi hoàn toàn cách chạy Messenger → **Lead Form**, scale ngân sách gấp nhiều lần.
-- Leads MBA: **5/ngày → 20/ngày**
-- Học viên/khóa: **20 → 60**
-- Chi phí/học viên: **18M → 12-14M VND**
+| Metric | Before | After |
+|:---|:---:|:---:|
+| Leads MBA / ngày | 5 | **20** |
+| Học viên / khóa | 20 | **60** |
+| Chi phí / học viên | 18M VND | **12–14M VND** |
 
 </details>
 
 <details>
-<summary><b>🍜 Phúc Lộc Thọ — Franchise Lead Generation</b></summary>
-<br>
+<summary><b>🍜 Phúc Lộc Thọ — 1,600+ Franchise Leads | 200M Budget | 20+ New Stores</b></summary>
+<br/>
 
-**Result:** `1,600+ Leads` | `200M Budget` | `20+ New Stores`
-
-Tối ưu Facebook Lead Ads nhượng quyền chất lượng cao → mở rộng **15+ cửa hàng** mới.
-
-</details>
-
-<details>
-<summary><b>🍦 Ampersand Group — 6 FnB Brands Social Management</b></summary>
-<br>
-
-**Brands:** Häagen-Dazs · The Running Bean · Esta Saigon · Snowee · Le Petit · Bean
-
-Quản lý ngân sách & chạy ads cho **6 thương hiệu F&B** đồng thời, tăng nhận diện & tương tác.
+Tối ưu **Facebook Lead Ads nhượng quyền**, mang lại khách hàng tiềm năng chất lượng cao.  
+Kết quả: **15+ cửa hàng** khai trương, 100+ khách đang trong pipeline chốt.
 
 </details>
 
 <details>
-<summary><b>🌐 Web Order — ROAS 5x E-commerce Campaign</b></summary>
-<br>
+<summary><b>🍦 Ampersand Group — 6 FnB Brands | Social Management | Brand Awareness</b></summary>
+<br/>
 
-**Result:** `ROAS 5+` | `5-7M Ads → 100M Revenue/Month`
-
-Case study đúc kết bài học về **Exclusive Offers** để thay đổi thói quen đặt hàng.
+**Brands:** Häagen-Dazs · The Running Bean · Esta Saigon · Snowee · Le Petit · Bean  
+Quản lý đồng thời ngân sách & content cho **6 thương hiệu F&B** cao cấp.
 
 </details>
+
+<details>
+<summary><b>🌐 Web Order Campaign — ROAS 5x | 5–7M Ads → 100M Revenue/Month</b></summary>
+<br/>
+
+Vận hành Web Order có lợi nhuận ổn định. Case study đúc kết bài học vàng về **Exclusive Offers** để thay đổi hành vi đặt hàng trên Social.
+
+</details>
+
+<br/>
 
 ---
 
 ## 🤝 18+ Brand Partners
 
+<br/>
+
 <div align="center">
 
-| FnB | Education | Franchise |
-|:---:|:---:|:---:|
-| Häagen-Dazs | IDEAS Institute | Phúc Lộc Thọ |
-| The Running Bean | Swiss UMEF | — |
-| Esta Saigon | College de Paris | — |
-| Snowee | VTCI Edu | — |
-| Phúc Lộc Thọ | Ascencia | — |
-| Cowboy Steak | — | — |
-| En Group | — | — |
+<table>
+  <tr>
+    <th>🍽️ FnB</th>
+    <th>🎓 Education</th>
+    <th>🏪 Franchise / Retail</th>
+    <th>🔒 Other</th>
+  </tr>
+  <tr>
+    <td>Häagen-Dazs</td>
+    <td>IDEAS Institute</td>
+    <td>Phúc Lộc Thọ</td>
+    <td>An Ninh Tiên Hoàng</td>
+  </tr>
+  <tr>
+    <td>The Running Bean</td>
+    <td>Swiss UMEF</td>
+    <td>Duyên Mai Fashion</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Esta Saigon</td>
+    <td>College de Paris</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Snowee</td>
+    <td>VTCI Edu</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cowboy Steak</td>
+    <td>Ascencia</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>En Group · Abiru-EN · KA-EN</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 </div>
+
+<br/>
 
 ---
 
 ## 📜 Certifications
 
+<br/>
+
 <div align="center">
 
-| 🏅 Certification | 🎓 Issuer | 📅 Year |
-|:---|:---:|:---:|
-| [Front End Developer](https://www.freecodecamp.org/certification/trongphuc3105/front-end-development-libraries) | freeCodeCamp | 2021 |
-| [Responsive Web Design](https://www.freecodecamp.org/certification/trongphuc3105/responsive-web-design) | freeCodeCamp | 2021 |
-| [JavaScript Advanced](https://f8.edu.vn/certificates/t7s3s) | Fullstack F8 | 2022 |
-| [ReactJS](https://f8.edu.vn/certificates/7jzkn) | Fullstack F8 | 2022 |
-| [HTML/CSS](https://f8.edu.vn/certificates/t7s3s) | Fullstack F8 | 2021 |
-| [JavaScript Top 20%](https://certificate.testcenter.vn/dUR8Uz0fMlcZNV9GVjE2bFN7SXU) | TOP CV | 2023 |
-| [SEO](https://certificate.testcenter.vn/dUR8UT0fMlcZNV9GVjE2bFN7SXU) | TOP CV | 2023 |
+| 🏅 Certificate | 🎓 Issuer | 📅 Year | 🔗 |
+|:---|:---:|:---:|:---:|
+| Front End Developer | freeCodeCamp | 2021 | [Verify](https://www.freecodecamp.org/certification/trongphuc3105/front-end-development-libraries) |
+| Responsive Web Design | freeCodeCamp | 2021 | [Verify](https://www.freecodecamp.org/certification/trongphuc3105/responsive-web-design) |
+| JavaScript Advanced | Fullstack F8 | 2022 | [Verify](https://f8.edu.vn/certificates/t7s3s) |
+| ReactJS | Fullstack F8 | 2022 | [Verify](https://f8.edu.vn/certificates/7jzkn) |
+| HTML / CSS | Fullstack F8 | 2021 | [Verify](https://f8.edu.vn/certificates/t7s3s) |
+| JavaScript — Top 20% | TOP CV | 2023 | [Verify](https://certificate.testcenter.vn/dUR8Uz0fMlcZNV9GVjE2bFN7SXU) |
+| SEO Specialist | TOP CV | 2023 | [Verify](https://certificate.testcenter.vn/dUR8UT0fMlcZNV9GVjE2bFN7SXU) |
 
 </div>
 
----
-
-## 💡 The Bridge — My Workflow
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                    THE TURNIO SYSTEM                    │
-├─────────────┬──────────────────┬───────────────────────┤
-│  01 · ADS   │  02 · AUTOMATION │   03 · REAL-TIME DATA │
-│  ACQUISITION│  DATA PIPELINE   │   REPORTING           │
-├─────────────┼──────────────────┼───────────────────────┤
-│ Meta Ads    │ Lead → CRM       │ Dashboard ROAS        │
-│ Google Ads  │ in < 5 seconds   │ CAC Tracker           │
-│ Quality     │ Auto-classify    │ Sale Close Rate       │
-│ Lead Focus  │ Zalo ZNS Alert   │ Multi-channel View    │
-└─────────────┴──────────────────┴───────────────────────┘
-```
+<br/>
 
 ---
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turniodev&bg_color=030303&color=EAB308&line=EAB308&point=ffffff&area=true&hide_border=true&area_color=EAB30820" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turniodev&bg_color=0D0D0D&color=EAB308&line=EAB308&point=ffffff&area=true&hide_border=true&area_color=20" width="100%"/>
 </div>
+
+<br/>
 
 ---
 
-## 🎯 Current Focus — 2026
+## 🎯 Roadmap 2026
 
-- [ ] 🚀 Scale DOMATION to **SaaS** with multi-tenant architecture
-- [ ] 🤖 Integrate AI-powered lead scoring & personalization
-- [ ] 📱 Launch Zalo Mini App ecosystem for F&B chains  
-- [ ] 📊 Build white-label Meta Ads reporting for agencies
-- [ ] 🎓 Grow TikTok coding channel to **50K followers**
+<br/>
+
+```
+ ✅  DOMATION multi-tenant SaaS architecture deployed
+ ✅  Meta Ads API real-time reporting dashboard
+ ✅  Zalo ZNS automation pipeline
+ 🚧  AI-powered lead scoring & personalization engine
+ 🚧  White-label Meta Ads reporting for agencies
+ 📌  Zalo Mini App ecosystem for F&B chains (50+ stores)
+ 📌  TikTok channel → 50K coding followers
+ 📌  Open-source automation templates library
+```
+
+<br/>
 
 ---
 
 <div align="center">
 
-### 📬 Let's Build Something Extraordinary
+## ` 📬 LET'S BUILD SOMETHING EXTRAORDINARY `
 
-<a href="https://domation.vercel.app/">
-  <img src="https://img.shields.io/badge/💼_DOMATION_Platform-EAB308?style=for-the-badge&logoColor=black" />
-</a>
-<a href="https://portfo-turnio.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-ffffff?style=for-the-badge&logoColor=black" />
-</a>
-<a href="https://www.tiktok.com/@turnio.dev">
-  <img src="https://img.shields.io/badge/TikTok-@turnio.dev-010101?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/turnio-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-turnio--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br/>
 
-<br/><br/>
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://portfo-turnio.vercel.app/)
+[![DOMATION](https://img.shields.io/badge/DOMATION_Platform-EAB308?style=for-the-badge&logo=lightning&logoColor=black)](https://domation.vercel.app/)
+[![TikTok](https://img.shields.io/badge/%40turnio.dev-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@turnio.dev)
+[![LinkedIn](https://img.shields.io/badge/turnio--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turnio-dev/)
 
-> *"Hợp nhất Marketing Performance và Automation Logic để kiến tạo những hệ thống kinh doanh vượt trội."*
+<br/>
+
+> *"Hợp nhất Marketing Performance và Automation Logic*  
+> *để kiến tạo những hệ thống kinh doanh vượt trội."*
 >
-> **— Huynh Trong Phuc · TURNIO**
+> — **Huynh Trong Phuc · TURNIO** ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EAB308,CA8A04,030303&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CA8A04,50:EAB308,100:030303&height=140&section=footer&reversal=false" width="100%"/>
 
 </div>
