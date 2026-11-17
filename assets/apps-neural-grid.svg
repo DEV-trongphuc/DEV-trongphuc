@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 390" width="100%" fill="none">
+  <defs>
+    <linearGradient id="meshBg" x1="0" y1="0" x2="1100" y2="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="50%" stop-color="#09132E"/>
+      <stop offset="100%" stop-color="#050B1D"/>
+    </linearGradient>
+    <radialGradient id="hubAura" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#030712" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="meshDots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#38BDF8" fill-opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <rect width="1100" height="390" rx="20" fill="url(#meshBg)" stroke="#1E3A8A" stroke-width="1.6"/>
+  <rect width="1100" height="390" rx="20" fill="url(#meshDots)"/>
+  <circle cx="550" cy="202" r="185" fill="url(#hubAura)"/>
+
+  <text x="550" y="34" text-anchor="middle" fill="#38BDF8" font-family="ui-monospace, monospace" font-size="12.5" font-weight="700" letter-spacing="3.5">
+    PRODUCTION SOFTWARE MESH · MULTI-TENANT SAAS &amp; AI ARCHITECTURE
+  </text>
+
+  <!-- Mesh Paths Connecting Center Hub (550, 202) to 6 App Satellites -->
+  <path id="m1" d="M 275 110 C 370 110, 390 178, 446 184" stroke="#1E40FF" stroke-width="2.2" stroke-dasharray="6 4"/>
+  <path id="m2" d="M 275 206 L 440 206" stroke="#38BDF8" stroke-width="2.2" stroke-dasharray="6 4"/>
+  <path id="m3" d="M 275 302 C 370 302, 390 232, 446 226" stroke="#10B981" stroke-width="2.2" stroke-dasharray="6 4"/>
+  <path id="m4" d="M 654 184 C 710 178, 730 110, 825 110" stroke="#A78BFA" stroke-width="2.2" stroke-dasharray="6 4"/>
+  <path id="m5" d="M 660 206 L 825 206" stroke="#F59E0B" stroke-width="2.2" stroke-dasharray="6 4"/>
+  <path id="m6" d="M 654 226 C 710 232, 730 302, 825 302" stroke="#10B981" stroke-width="2.2" stroke-dasharray="6 4"/>
+
+  <!-- High-Speed Bidirectional Photon Packets -->
+  <circle r="5" fill="#60A5FA"><animateMotion dur="1.6s" repeatCount="indefinite"><mpath href="#m1"/></animateMotion></circle>
+  <circle r="4" fill="#38BDF8"><animateMotion dur="1.6s" begin="0.8s" repeatCount="indefinite"><mpath href="#m1"/></animateMotion></circle>
+
+  <circle r="5" fill="#38BDF8"><animateMotion dur="1.3s" repeatCount="indefinite"><mpath href="#m2"/></animateMotion></circle>
+  <circle r="4" fill="#A78BFA"><animateMotion dur="1.3s" begin="0.65s" repeatCount="indefinite"><mpath href="#m2"/></animateMotion></circle>
+
+  <circle r="5" fill="#34D399"><animateMotion dur="1.8s" repeatCount="indefinite"><mpath href="#m3"/></animateMotion></circle>
+  <circle r="4" fill="#60A5FA"><animateMotion dur="1.8s" begin="0.9s" repeatCount="indefinite"><mpath href="#m3"/></animateMotion></circle>
+
+  <circle r="5" fill="#A78BFA"><animateMotion dur="1.5s" repeatCount="indefinite"><mpath href="#m4"/></animateMotion></circle>
+  <circle r="4" fill="#38BDF8"><animateMotion dur="1.5s" begin="0.75s" repeatCount="indefinite"><mpath href="#m4"/></animateMotion></circle>
+
+  <circle r="5" fill="#FBBF24"><animateMotion dur="1.4s" repeatCount="indefinite"><mpath href="#m5"/></animateMotion></circle>
+  <circle r="4" fill="#F97316"><animateMotion dur="1.4s" begin="0.7s" repeatCount="indefinite"><mpath href="#m5"/></animateMotion></circle>
+
+  <circle r="5" fill="#10B981"><animateMotion dur="1.7s" repeatCount="indefinite"><mpath href="#m6"/></animateMotion></circle>
+  <circle r="4" fill="#FBBF24"><animateMotion dur="1.7s" begin="0.85s" repeatCount="indefinite"><mpath href="#m6"/></animateMotion></circle>
+
+  <!-- Central Kernel Hub -->
+  <g transform="translate(550, 206)">
+    <circle r="110" stroke="#1E40FF" stroke-opacity="0.3" stroke-width="1.2" stroke-dasharray="6 6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="94" stroke="#38BDF8" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="22 10">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="70" stroke="#38BDF8" stroke-width="1.5">
+      <animate attributeName="r" values="64;106" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="-108" y="-66" width="216" height="132" rx="18" fill="#0B193D" stroke="#38BDF8" stroke-width="2"/>
+    <text x="0" y="-34" text-anchor="middle" fill="#38BDF8" font-family="ui-monospace, monospace" font-size="11" font-weight="700">CORE KERNEL (TS + PG)</text>
+    <text x="0" y="-4" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="20" font-weight="900">DOMATION OS</text>
+    <text x="0" y="20" text-anchor="middle" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11.5">182+ Tables · FORCE RLS</text>
+    <text x="0" y="38" text-anchor="middle" fill="#34D399" font-family="ui-monospace, monospace" font-size="11" font-weight="700">RBAC · Webhooks · Event Bus</text>
+  </g>
+
+  <!-- Left Column Apps -->
+  <g transform="translate(26, 68)">
+    <rect width="249" height="82" rx="12" fill="#0F172A" stroke="#1E40FF" stroke-width="1.5"/>
+    <circle cx="231" cy="18" r="4" fill="#60A5FA"><animate attributeName="opacity" values="1;0.2;1" dur="1.3s" repeatCount="indefinite"/></circle>
+    <text x="16" y="26" fill="#60A5FA" font-family="ui-monospace, monospace" font-size="10.5" font-weight="700">APP 01 · SAAS ENGINE</text>
+    <text x="16" y="49" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="800">Auto Data Router V2</text>
+    <text x="16" y="68" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">5-Port Fair-Share · ZaloBot &lt;5s</text>
+  </g>
+  <g transform="translate(26, 165)">
+    <rect width="249" height="82" rx="12" fill="#0F172A" stroke="#38BDF8" stroke-width="1.5"/>
+    <circle cx="231" cy="18" r="4" fill="#38BDF8"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite"/></circle>
+    <text x="16" y="26" fill="#38BDF8" font-family="ui-monospace, monospace" font-size="10.5" font-weight="700">APP 02 · ENTERPRISE OS</text>
+    <text x="16" y="49" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="800">ERP 5.0 (12 Modules)</text>
+    <text x="16" y="68" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">Task Kanban · GPS AI · Payroll PDF</text>
+  </g>
+  <g transform="translate(26, 262)">
+    <rect width="249" height="82" rx="12" fill="#0F172A" stroke="#10B981" stroke-width="1.5"/>
+    <circle cx="231" cy="18" r="4" fill="#10B981"><animate attributeName="opacity" values="1;0.25;1" dur="1.7s" repeatCount="indefinite"/></circle>
+    <text x="16" y="26" fill="#34D399" font-family="ui-monospace, monospace" font-size="10.5" font-weight="700">APP 03 · PIPELINE &amp; FLOW</text>
+    <text x="16" y="49" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="800">CRM 360° &amp; Flow Studio</text>
+    <text x="16" y="68" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">8-Stage Kanban · IF/ELSE · SES Email</text>
+  </g>
+
+  <!-- Right Column Apps -->
+  <g transform="translate(825, 68)">
+    <rect width="249" height="82" rx="12" fill="#0F172A" stroke="#7C3AED" stroke-width="1.5"/>
+    <circle cx="231" cy="18" r="4" fill="#A78BFA"><animate attributeName="opacity" values="0.25;1;0.25" dur="1.4s" repeatCount="indefinite"/></circle>
+    <text x="16" y="26" fill="#A78BFA" font-family="ui-monospace, monospace" font-size="10.5" font-weight="700">APP 04 · AI CAD PREPRESS</text>
+    <text x="16" y="49" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="800">INKICA AI POD Studio</text>
+    <text x="16" y="68" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">6 AI Agents · 208 SKU 3D · 300 DPI</text>
+  </g>
+  <g transform="translate(825, 165)">
+    <rect width="249" height="82" rx="12" fill="#0F172A" stroke="#F59E0B" stroke-width="1.5"/>
+    <circle cx="231" cy="18" r="4" fill="#FBBF24"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="16" y="26" fill="#FBBF24" font-family="ui-monospace, monospace" font-size="10.5" font-weight="700">APP 05 · PROPTECH 3D</text>
+    <text x="16" y="49" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="800">EcoLife 3D WebGL &amp; AI</text>
+    <text x="16" y="68" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">Three.js Draco 8 Villas · AI Sales</text>
+  </g>
+  <g transform="translate(825, 262)">
+    <rect width="249" height="82" rx="12" fill="#0F172A" stroke="#10B981" stroke-width="1.5"/>
+    <circle cx="231" cy="18" r="4" fill="#34D399"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="16" y="26" fill="#34D399" font-family="ui-monospace, monospace" font-size="10.5" font-weight="700">APP 06 · FINTECH HEALTH</text>
+    <text x="16" y="49" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="800">Flora VietQR &amp; Affiliate</text>
+    <text x="16" y="68" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">ACB Webhook Sync · HIPAA Mask</text>
+  </g>
+</svg>

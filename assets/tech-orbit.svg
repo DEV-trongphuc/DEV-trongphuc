@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 320" width="100%" fill="none">
+  <defs>
+    <linearGradient id="oBg" x1="0" y1="0" x2="1100" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#0B132B"/>
+      <stop offset="100%" stop-color="#050816"/>
+    </linearGradient>
+    <radialGradient id="sunGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#050816" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="320" rx="20" fill="url(#oBg)" stroke="#1E3A8A" stroke-width="1.5"/>
+  <circle cx="230" cy="160" r="145" fill="url(#sunGlow)"/>
+
+  <!-- Left Side: Spinning Tech Orbit Solar System -->
+  <g transform="translate(230, 160)">
+    <!-- Rings -->
+    <circle r="134" stroke="#1E40FF" stroke-opacity="0.35" stroke-width="1.4" stroke-dasharray="8 6"/>
+    <circle r="96" stroke="#38BDF8" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="14 8"/>
+    <circle r="58" stroke="#A78BFA" stroke-opacity="0.55" stroke-width="1.4" stroke-dasharray="10 6"/>
+
+    <!-- Outer Orbit Satellites (16s) -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite"/>
+      <circle cx="134" cy="0" r="14" fill="#0F172A" stroke="#38BDF8" stroke-width="1.5"/>
+      <text x="134" y="4" text-anchor="middle" fill="#38BDF8" font-family="ui-monospace, monospace" font-size="9" font-weight="800">3D</text>
+
+      <circle cx="-134" cy="0" r="14" fill="#0F172A" stroke="#10B981" stroke-width="1.5"/>
+      <text x="-134" y="4" text-anchor="middle" fill="#34D399" font-family="ui-monospace, monospace" font-size="9" font-weight="800">PG</text>
+
+      <circle cx="0" cy="-134" r="14" fill="#0F172A" stroke="#F59E0B" stroke-width="1.5"/>
+      <text x="0" y="-130" text-anchor="middle" fill="#FBBF24" font-family="ui-monospace, monospace" font-size="9" font-weight="800">AI</text>
+
+      <circle cx="0" cy="134" r="14" fill="#0F172A" stroke="#A78BFA" stroke-width="1.5"/>
+      <text x="0" y="138" text-anchor="middle" fill="#C4B5FD" font-family="ui-monospace, monospace" font-size="9" font-weight="800">GO</text>
+    </g>
+
+    <!-- Middle Orbit Satellites (10s Reverse) -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="10s" repeatCount="indefinite"/>
+      <circle cx="96" cy="0" r="13" fill="#0F172A" stroke="#60A5FA" stroke-width="1.5"/>
+      <text x="96" y="4" text-anchor="middle" fill="#93C5FD" font-family="ui-monospace, monospace" font-size="8.5" font-weight="800">TS</text>
+
+      <circle cx="-96" cy="0" r="13" fill="#0F172A" stroke="#38BDF8" stroke-width="1.5"/>
+      <text x="-96" y="4" text-anchor="middle" fill="#38BDF8" font-family="ui-monospace, monospace" font-size="8.5" font-weight="800">JS</text>
+
+      <circle cx="0" cy="-96" r="13" fill="#0F172A" stroke="#34D399" stroke-width="1.5"/>
+      <text x="0" y="-92" text-anchor="middle" fill="#34D399" font-family="ui-monospace, monospace" font-size="8" font-weight="800">NJS</text>
+    </g>
+
+    <!-- Inner Orbit Satellites (6s) -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+      <circle cx="58" cy="0" r="6" fill="#38BDF8"/>
+      <circle cx="-58" cy="0" r="6" fill="#F59E0B"/>
+    </g>
+
+    <!-- Center Core -->
+    <circle r="34" fill="#1E40FF" stroke="#38BDF8" stroke-width="2"/>
+    <text x="0" y="-2" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="11" font-weight="900">STACK</text>
+    <text x="0" y="12" text-anchor="middle" fill="#BAE6FD" font-family="ui-monospace, monospace" font-size="9" font-weight="700">CORE</text>
+  </g>
+
+  <!-- Right Side: Layered Software Capabilities with Animated Bars -->
+  <text x="430" y="54" fill="#38BDF8" font-family="ui-monospace, monospace" font-size="12" font-weight="700" letter-spacing="2.5">ENGINEERING CAPABILITIES &amp; ARCHITECTURE STACK</text>
+
+  <!-- Bar 1 -->
+  <g transform="translate(430, 78)">
+    <text x="0" y="16" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="14" font-weight="700">Frontend, WebGL 3D &amp; Design Systems (React 19 · Next.js · Three.js · Tailwind)</text>
+    <rect x="0" y="26" width="620" height="10" rx="5" fill="#0F172A" stroke="#1E3A8A"/>
+    <rect x="0" y="26" width="590" height="10" rx="5" fill="#38BDF8">
+      <animate attributeName="width" values="0;590" dur="1.4s" fill="freeze"/>
+    </rect>
+  </g>
+
+  <!-- Bar 2 -->
+  <g transform="translate(430, 134)">
+    <text x="0" y="16" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="14" font-weight="700">Multi-Tenant Backend &amp; DB Security (Node · Express · PostgreSQL FORCE RLS · BullMQ)</text>
+    <rect x="0" y="26" width="620" height="10" rx="5" fill="#0F172A" stroke="#1E3A8A"/>
+    <rect x="0" y="26" width="575" height="10" rx="5" fill="#1E40FF">
+      <animate attributeName="width" values="0;575" dur="1.6s" fill="freeze"/>
+    </rect>
+  </g>
+
+  <!-- Bar 3 -->
+  <g transform="translate(430, 190)">
+    <text x="0" y="16" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="14" font-weight="700">AI Agents, Vision CAD &amp; RAG Pipelines (Gemini · SAM 3 · ViTMatte · OCR · Tool Calling)</text>
+    <rect x="0" y="26" width="620" height="10" rx="5" fill="#0F172A" stroke="#1E3A8A"/>
+    <rect x="0" y="26" width="560" height="10" rx="5" fill="#A78BFA">
+      <animate attributeName="width" values="0;560" dur="1.8s" fill="freeze"/>
+    </rect>
+  </g>
+
+  <!-- Bar 4 -->
+  <g transform="translate(430, 246)">
+    <text x="0" y="16" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="14" font-weight="700">FinTech Webhooks, Real-Time Messaging &amp; Infra (VietQR ACB · ZaloBot/ZNS · Docker · Cloud)</text>
+    <rect x="0" y="26" width="620" height="10" rx="5" fill="#0F172A" stroke="#1E3A8A"/>
+    <rect x="0" y="26" width="580" height="10" rx="5" fill="#10B981">
+      <animate attributeName="width" values="0;580" dur="2.0s" fill="freeze"/>
+    </rect>
+  </g>
+</svg>

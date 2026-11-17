@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 300" width="100%" fill="none">
+  <defs>
+    <linearGradient id="bgMain" x1="0" y1="0" x2="1100" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="50%" stop-color="#0B132B"/>
+      <stop offset="100%" stop-color="#06122E"/>
+    </linearGradient>
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.6"/>
+      <stop offset="55%" stop-color="#1E40FF" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#030712" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="neonText" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#60A5FA">
+        <animate attributeName="stop-color" values="#60A5FA;#38BDF8;#A78BFA;#60A5FA" dur="4.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#38BDF8">
+        <animate attributeName="stop-color" values="#38BDF8;#10B981;#F59E0B;#38BDF8" dur="4.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#F59E0B">
+        <animate attributeName="stop-color" values="#F59E0B;#60A5FA;#38BDF8;#F59E0B" dur="4.5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="laserBeam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="cyberGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" stroke="#1E40FF" stroke-opacity="0.16" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.4" fill="#38BDF8" fill-opacity="0.32"/>
+    </pattern>
+    <clipPath id="clipFrame">
+      <rect width="1100" height="300" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clipFrame)">
+    <rect width="1100" height="300" fill="url(#bgMain)"/>
+
+    <!-- Infinite Moving Cyber Perspective Grid -->
+    <g>
+      <rect x="-40" y="-40" width="1180" height="380" fill="url(#cyberGrid)"/>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="40 40" dur="3.5s" repeatCount="indefinite"/>
+    </g>
+
+    <circle cx="148" cy="150" r="155" fill="url(#coreGlow)"/>
+    <circle cx="960" cy="80" r="185" fill="url(#coreGlow)" opacity="0.55"/>
+
+    <!-- Morphing Triple Energy Waves -->
+    <path fill="none" stroke="#1E40FF" stroke-width="2.2" stroke-opacity="0.6" d="M0 248 Q 180 218 360 248 T 720 248 T 1100 248">
+      <animate attributeName="d"
+        values="M0 248 Q 180 218 360 248 T 720 248 T 1100 248;M0 248 Q 180 278 360 248 T 720 248 T 1100 248;M0 248 Q 180 218 360 248 T 720 248 T 1100 248"
+        dur="4.0s" repeatCount="indefinite"/>
+    </path>
+    <path fill="none" stroke="#38BDF8" stroke-width="1.8" stroke-opacity="0.7" d="M0 262 Q 200 284 400 262 T 800 262 T 1100 262">
+      <animate attributeName="d"
+        values="M0 262 Q 200 284 400 262 T 800 262 T 1100 262;M0 262 Q 200 232 400 262 T 800 262 T 1100 262;M0 262 Q 200 284 400 262 T 800 262 T 1100 262"
+        dur="3.1s" repeatCount="indefinite"/>
+    </path>
+    <path fill="none" stroke="#A78BFA" stroke-width="1.4" stroke-opacity="0.45" d="M0 274 Q 240 250 480 274 T 960 274 T 1100 274">
+      <animate attributeName="d"
+        values="M0 274 Q 240 250 480 274 T 960 274 T 1100 274;M0 274 Q 240 295 480 274 T 960 274 T 1100 274;M0 274 Q 240 250 480 274 T 960 274 T 1100 274"
+        dur="5.0s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- Floating Photon Particles -->
+    <circle cx="310" cy="290" r="2.6" fill="#38BDF8"><animate attributeName="cy" values="295;15" dur="3.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.95;0" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="480" cy="290" r="2.2" fill="#60A5FA"><animate attributeName="cy" values="295;15" dur="2.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.85;0" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="670" cy="290" r="2.8" fill="#10B981"><animate attributeName="cy" values="295;15" dur="4.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="850" cy="290" r="2.3" fill="#A78BFA"><animate attributeName="cy" values="295;15" dur="3.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.85;0" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="990" cy="290" r="2.5" fill="#F59E0B"><animate attributeName="cy" values="295;15" dur="4.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="4.1s" repeatCount="indefinite"/></circle>
+
+    <!-- Rotating 3-Ring Hologram Emblem -->
+    <g transform="translate(148, 148)">
+      <circle r="92" stroke="#1E40FF" stroke-opacity="0.45" stroke-width="1.6" stroke-dasharray="10 6">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="70" stroke="#38BDF8" stroke-opacity="0.75" stroke-width="2" stroke-dasharray="28 12 6 12">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="8s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="48" stroke="#A78BFA" stroke-opacity="0.75" stroke-width="1.6" stroke-dasharray="14 8">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="24" stroke="#38BDF8" stroke-width="2">
+        <animate attributeName="r" values="24;84" dur="2.1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.9;0" dur="2.1s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="30" fill="#0B193D" stroke="#60A5FA" stroke-width="2.2"/>
+      <text x="0" y="10" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="28" font-weight="900">D<tspan fill="#38BDF8">·</tspan></text>
+    </g>
+
+    <!-- Dual Laser Scanner Sweeps -->
+    <rect x="-340" y="2" width="340" height="3" fill="url(#laserBeam)">
+      <animate attributeName="x" from="-340" to="1100" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1100" y="295" width="340" height="3" fill="url(#laserBeam)">
+      <animate attributeName="x" from="1100" to="-340" dur="3.0s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Main Identity & Product Focus -->
+    <text x="275" y="64" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="13.5" font-weight="800" letter-spacing="2.8">
+      FOUNDER &amp; SOFTWARE ARCHITECT · HO CHI MINH CITY, VIETNAM
+    </text>
+
+    <text x="275" y="116" fill="#FFFFFF" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="44" font-weight="900" letter-spacing="-0.5">
+      HUỲNH TRỌNG PHÚC <tspan fill="#F59E0B">·</tspan> <tspan fill="url(#neonText)">TURNIO</tspan>
+    </text>
+
+    <text x="275" y="152" fill="#CBD5E1" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="17" font-weight="600">
+      Kiến trúc &amp; Phát triển Hệ sinh thái SaaS Enterprise · ERP 5.0 · WebGL 3D · AI Multi-Agent
+    </text>
+
+    <!-- Live Product Highlight Bar (Clean Visual Chips, No Code) -->
+    <g transform="translate(275, 178)">
+      <rect x="0" y="0" width="186" height="44" rx="11" fill="#0F172A" fill-opacity="0.92" stroke="#1E40FF" stroke-width="1.4"/>
+      <circle cx="18" cy="22" r="4.5" fill="#10B981"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+      <text x="32" y="20" fill="#93C5FD" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">CORE PLATFORM</text>
+      <text x="32" y="35" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="800">DOMATION Enterprise OS</text>
+
+      <rect x="200" y="0" width="184" height="44" rx="11" fill="#0F172A" fill-opacity="0.92" stroke="#0284C7" stroke-width="1.4"/>
+      <circle cx="218" cy="22" r="4.5" fill="#38BDF8"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite"/></circle>
+      <text x="232" y="20" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">PROPTECH &amp; WEBGL 3D</text>
+      <text x="232" y="35" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="800">EcoLife Three.js 3D</text>
+
+      <rect x="398" y="0" width="192" height="44" rx="11" fill="#0F172A" fill-opacity="0.92" stroke="#7C3AED" stroke-width="1.4"/>
+      <circle cx="416" cy="22" r="4.5" fill="#A78BFA"><animate attributeName="opacity" values="1;0.25;1" dur="1.7s" repeatCount="indefinite"/></circle>
+      <text x="430" y="20" fill="#DDD6FE" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">AI MULTI-AGENT CAD</text>
+      <text x="430" y="35" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="800">INKICA Studio 208 SKU</text>
+
+      <rect x="604" y="0" width="182" height="44" rx="11" fill="#0F172A" fill-opacity="0.92" stroke="#10B981" stroke-width="1.4"/>
+      <circle cx="622" cy="22" r="4.5" fill="#34D399"><animate attributeName="opacity" values="0.25;1;0.25" dur="1.4s" repeatCount="indefinite"/></circle>
+      <text x="636" y="20" fill="#6EE7B7" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">FINTECH &amp; HEALTH</text>
+      <text x="636" y="35" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="800">Flora VietQR ACB Sync</text>
+    </g>
+  </g>
+
+  <rect width="1100" height="300" rx="22" stroke="#1E40FF" stroke-opacity="0.75" stroke-width="2"/>
+  <path d="M18 46 V18 H46" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M1082 46 V18 H1054" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M18 254 V282 H46" stroke="#1E40FF" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M1082 254 V282 H1054" stroke="#F59E0B" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

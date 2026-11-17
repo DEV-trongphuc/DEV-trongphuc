@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 140" width="100%" fill="none">
+  <defs>
+    <linearGradient id="cBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B132B"/>
+      <stop offset="100%" stop-color="#040814"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#1E40FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1: LIVE SYSTEMS -->
+  <g transform="translate(8, 12)">
+    <rect width="258" height="114" rx="16" fill="url(#cBg)" stroke="#1E40FF" stroke-width="1.5"/>
+    <rect width="258" height="114" rx="16" stroke="#38BDF8" stroke-width="1.8" stroke-dasharray="60 680" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" from="0" to="-740" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="34" fill="#60A5FA" font-family="ui-monospace, monospace" font-size="11" font-weight="700">PRODUCTION APPS</text>
+    <text x="18" y="72" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="30" font-weight="900">15+ Systems</text>
+    <text x="18" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11.5">SaaS · ERP 5.0 · CRM · Web3D</text>
+    <!-- Live Audio/Telemetry Equalizer Bars -->
+    <g transform="translate(206, 20)">
+      <rect x="0" y="8" width="4" height="14" rx="2" fill="#38BDF8"><animate attributeName="height" values="6;18;8;14;6" dur="1.1s" repeatCount="indefinite"/><animate attributeName="y" values="14;2;12;6;14" dur="1.1s" repeatCount="indefinite"/></rect>
+      <rect x="7" y="4" width="4" height="18" rx="2" fill="#60A5FA"><animate attributeName="height" values="16;6;18;10;16" dur="0.9s" repeatCount="indefinite"/><animate attributeName="y" values="4;14;2;10;4" dur="0.9s" repeatCount="indefinite"/></rect>
+      <rect x="14" y="10" width="4" height="12" rx="2" fill="#10B981"><animate attributeName="height" values="10;18;6;16;10" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="10;2;14;4;10" dur="1.3s" repeatCount="indefinite"/></rect>
+      <rect x="21" y="6" width="4" height="16" rx="2" fill="#38BDF8"><animate attributeName="height" values="14;8;18;6;14" dur="1.0s" repeatCount="indefinite"/><animate attributeName="y" values="6;12;2;14;6" dur="1.0s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+
+  <!-- Card 2: DATABASE & SECURITY -->
+  <g transform="translate(282, 12)">
+    <rect width="258" height="114" rx="16" fill="url(#cBg)" stroke="#0284C7" stroke-width="1.5"/>
+    <rect width="258" height="114" rx="16" stroke="#10B981" stroke-width="1.8" stroke-dasharray="60 680" stroke-dashoffset="-185">
+      <animate attributeName="stroke-dashoffset" from="-185" to="-925" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="34" fill="#34D399" font-family="ui-monospace, monospace" font-size="11" font-weight="700">MULTI-TENANT KERNEL</text>
+    <text x="18" y="72" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="30" font-weight="900">182+ Tables</text>
+    <text x="18" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11.5">PG FORCE RLS · Zero-Hardcode RBAC</text>
+    <g transform="translate(206, 20)">
+      <rect x="0" y="6" width="4" height="16" rx="2" fill="#10B981"><animate attributeName="height" values="8;18;6;16;8" dur="1.0s" repeatCount="indefinite"/><animate attributeName="y" values="12;2;14;4;12" dur="1.0s" repeatCount="indefinite"/></rect>
+      <rect x="7" y="10" width="4" height="12" rx="2" fill="#34D399"><animate attributeName="height" values="16;8;18;6;16" dur="1.2s" repeatCount="indefinite"/><animate attributeName="y" values="4;12;2;14;4" dur="1.2s" repeatCount="indefinite"/></rect>
+      <rect x="14" y="4" width="4" height="18" rx="2" fill="#38BDF8"><animate attributeName="height" values="6;16;10;18;6" dur="0.95s" repeatCount="indefinite"/><animate attributeName="y" values="14;4;10;2;14" dur="0.95s" repeatCount="indefinite"/></rect>
+      <rect x="21" y="8" width="4" height="14" rx="2" fill="#10B981"><animate attributeName="height" values="14;6;16;8;14" dur="1.15s" repeatCount="indefinite"/><animate attributeName="y" values="6;14;4;12;6" dur="1.15s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+
+  <!-- Card 3: AI & 3D ENGINE -->
+  <g transform="translate(556, 12)">
+    <rect width="258" height="114" rx="16" fill="url(#cBg)" stroke="#7C3AED" stroke-width="1.5"/>
+    <rect width="258" height="114" rx="16" stroke="#A78BFA" stroke-width="1.8" stroke-dasharray="60 680" stroke-dashoffset="-370">
+      <animate attributeName="stroke-dashoffset" from="-370" to="-1110" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="34" fill="#A78BFA" font-family="ui-monospace, monospace" font-size="11" font-weight="700">AI AGENTS &amp; WEBGL 3D</text>
+    <text x="18" y="72" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="30" font-weight="900">208 SKU 3D</text>
+    <text x="18" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11.5">6 Prepress Agents · Three.js · RAG</text>
+    <g transform="translate(206, 20)">
+      <rect x="0" y="8" width="4" height="14" rx="2" fill="#A78BFA"><animate attributeName="height" values="10;18;6;14;10" dur="1.25s" repeatCount="indefinite"/><animate attributeName="y" values="10;2;14;6;10" dur="1.25s" repeatCount="indefinite"/></rect>
+      <rect x="7" y="4" width="4" height="18" rx="2" fill="#C4B5FD"><animate attributeName="height" values="6;16;12;18;6" dur="0.9s" repeatCount="indefinite"/><animate attributeName="y" values="14;4;8;2;14" dur="0.9s" repeatCount="indefinite"/></rect>
+      <rect x="14" y="10" width="4" height="12" rx="2" fill="#7C3AED"><animate attributeName="height" values="16;6;18;8;16" dur="1.1s" repeatCount="indefinite"/><animate attributeName="y" values="4;14;2;12;4" dur="1.1s" repeatCount="indefinite"/></rect>
+      <rect x="21" y="6" width="4" height="16" rx="2" fill="#A78BFA"><animate attributeName="height" values="8;18;10;14;8" dur="1.05s" repeatCount="indefinite"/><animate attributeName="y" values="12;2;10;6;12" dur="1.05s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+
+  <!-- Card 4: REALTIME & FINTECH -->
+  <g transform="translate(830, 12)">
+    <rect width="262" height="114" rx="16" fill="url(#cBg)" stroke="#D97706" stroke-width="1.5"/>
+    <rect width="262" height="114" rx="16" stroke="#FBBF24" stroke-width="1.8" stroke-dasharray="60 680" stroke-dashoffset="-555">
+      <animate attributeName="stroke-dashoffset" from="-555" to="-1295" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="34" fill="#FBBF24" font-family="ui-monospace, monospace" font-size="11" font-weight="700">REALTIME &amp; OSS CODE</text>
+    <text x="18" y="72" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="30" font-weight="900">&lt;5s · 69 Repos</text>
+    <text x="18" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11.5">VietQR ACB · ZaloBot · 30+ Clients</text>
+    <g transform="translate(210, 20)">
+      <rect x="0" y="6" width="4" height="16" rx="2" fill="#FBBF24"><animate attributeName="height" values="12;18;6;16;12" dur="0.95s" repeatCount="indefinite"/><animate attributeName="y" values="8;2;14;4;8" dur="0.95s" repeatCount="indefinite"/></rect>
+      <rect x="7" y="10" width="4" height="12" rx="2" fill="#F59E0B"><animate attributeName="height" values="6;16;8;18;6" dur="1.15s" repeatCount="indefinite"/><animate attributeName="y" values="14;4;12;2;14" dur="1.15s" repeatCount="indefinite"/></rect>
+      <rect x="14" y="4" width="4" height="18" rx="2" fill="#FDE68A"><animate attributeName="height" values="18;8;16;6;18" dur="1.05s" repeatCount="indefinite"/><animate attributeName="y" values="2;12;4;14;2" dur="1.05s" repeatCount="indefinite"/></rect>
+      <rect x="21" y="8" width="4" height="14" rx="2" fill="#FBBF24"><animate attributeName="height" values="8;18;12;6;8" dur="1.25s" repeatCount="indefinite"/><animate attributeName="y" values="12;2;8;14;12" dur="1.25s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+</svg>
