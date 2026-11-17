@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 212 54" width="100%" fill="none">
+  <defs>
+    <linearGradient id="btn_portfolio_bg" x1="0" y1="0" x2="212" y2="54" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="50%" stop-color="#0B132B"/>
+      <stop offset="100%" stop-color="#06122E"/>
+    </linearGradient>
+    <radialGradient id="btn_portfolio_aura" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.32"/>
+      <stop offset="55%" stop-color="#1E40FF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#030712" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="btn_portfolio_scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="btn_portfolio_grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" stroke="#1E40FF" stroke-opacity="0.16" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.25" fill="#38BDF8" fill-opacity="0.28"/>
+    </pattern>
+    <clipPath id="btn_portfolio_clip">
+      <rect width="212" height="54" rx="13"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#btn_portfolio_clip)">
+    <rect width="212" height="54" fill="url(#btn_portfolio_bg)"/>
+    <g>
+      <rect x="-40" y="-40" width="292" height="134" fill="url(#btn_portfolio_grid)"/>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="40 40" dur="3.6s" repeatCount="indefinite"/>
+    </g>
+    <circle cx="22" cy="27" r="5" fill="#60A5FA">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="22" cy="27" r="9" stroke="#60A5FA" stroke-width="1.2">
+      <animate attributeName="r" values="6;13" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="38" y="23" fill="#60A5FA" font-family="ui-monospace, monospace" font-size="10" font-weight="700" letter-spacing="1.4">PORTFOLIO</text>
+    <text x="38" y="40" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13.5" font-weight="800">All Case Apps</text>
+    <path d="M188 27 H198 M194 23 L198 27 L194 31" stroke="#60A5FA" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="-280" y="1.5" width="280" height="2.2" fill="url(#btn_portfolio_scan)">
+      <animate attributeName="x" from="-280" to="212" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="212" y="50.5" width="280" height="2.2" fill="url(#btn_portfolio_scan)">
+      <animate attributeName="x" from="212" to="-280" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect width="212" height="54" rx="13" stroke="#60A5FA" stroke-width="1.6"/>
+  <path d="M14 36 V14 H36" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M198 36 V14 H176" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M14 18 V40 H36" stroke="#1E40FF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M198 18 V40 H176" stroke="#F59E0B" stroke-width="2" stroke-linecap="round"/>
+</svg>

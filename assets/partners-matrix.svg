@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 270" width="100%" fill="none">
+  <defs>
+    <linearGradient id="partners_bg" x1="0" y1="0" x2="1100" y2="270" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="50%" stop-color="#0B132B"/>
+      <stop offset="100%" stop-color="#06122E"/>
+    </linearGradient>
+    <radialGradient id="partners_aura" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.32"/>
+      <stop offset="55%" stop-color="#1E40FF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#030712" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="partners_scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="partners_grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" stroke="#1E40FF" stroke-opacity="0.16" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.25" fill="#38BDF8" fill-opacity="0.28"/>
+    </pattern>
+    <clipPath id="partners_clip">
+      <rect width="1100" height="270" rx="20"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#partners_clip)">
+    <rect width="1100" height="270" fill="url(#partners_bg)"/>
+    <g>
+      <rect x="-40" y="-40" width="1180" height="350" fill="url(#partners_grid)"/>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="40 40" dur="4.0s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(20, 18)">
+      <rect width="265" height="234" rx="14" fill="#070E22" fill-opacity="0.9" stroke="#1E40FF" stroke-width="1.3"/>
+      <circle cx="245" cy="22" r="4" fill="#60A5FA"><animate attributeName="opacity" values="1;0.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
+      <text x="16" y="27" fill="#60A5FA" font-family="ui-monospace, monospace" font-size="11" font-weight="800">REAL ESTATE &amp; AI TECH</text>
+      <line x1="16" y1="39" x2="249" y2="39" stroke="#1E40FF" stroke-opacity="0.5" stroke-width="1"/>
+      <circle cx="20" cy="62" r="2.5" fill="#60A5FA"/><text x="31" y="66" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Capital House Group</text>
+      <circle cx="20" cy="90" r="2.5" fill="#60A5FA"/><text x="31" y="94" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">EcoLife Signature Đà Nẵng</text>
+      <circle cx="20" cy="118" r="2.5" fill="#60A5FA"/><text x="31" y="122" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">INKICA AI POD Studio</text>
+      <circle cx="20" cy="146" r="2.5" fill="#60A5FA"/><text x="31" y="150" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Rich Land PropTech</text>
+      <circle cx="20" cy="174" r="2.5" fill="#60A5FA"/><text x="31" y="178" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Địa Ốc Tùng Long</text>
+      <circle cx="20" cy="202" r="2.5" fill="#60A5FA"/><text x="31" y="206" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Hợp Nhất Land · IHD Group</text>
+    </g>
+    <g transform="translate(285, 18)">
+      <rect width="265" height="234" rx="14" fill="#070E22" fill-opacity="0.9" stroke="#0284C7" stroke-width="1.3"/>
+      <circle cx="245" cy="22" r="4" fill="#38BDF8"><animate attributeName="opacity" values="1;0.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
+      <text x="16" y="27" fill="#38BDF8" font-family="ui-monospace, monospace" font-size="11" font-weight="800">EDUCATION &amp; EDTECH</text>
+      <line x1="16" y1="39" x2="249" y2="39" stroke="#0284C7" stroke-opacity="0.5" stroke-width="1"/>
+      <circle cx="20" cy="62" r="2.5" fill="#38BDF8"/><text x="31" y="66" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">IDEAS Business Institute</text>
+      <circle cx="20" cy="90" r="2.5" fill="#38BDF8"/><text x="31" y="94" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Swiss UMEF University</text>
+      <circle cx="20" cy="118" r="2.5" fill="#38BDF8"/><text x="31" y="122" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Collège de Paris</text>
+      <circle cx="20" cy="146" r="2.5" fill="#38BDF8"/><text x="31" y="150" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">ESTIAM Paris</text>
+      <circle cx="20" cy="174" r="2.5" fill="#38BDF8"/><text x="31" y="178" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">ISTEC Paris</text>
+      <circle cx="20" cy="202" r="2.5" fill="#38BDF8"/><text x="31" y="206" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Ascencia · VTCI Edu</text>
+    </g>
+    <g transform="translate(550, 18)">
+      <rect width="265" height="234" rx="14" fill="#070E22" fill-opacity="0.9" stroke="#7C3AED" stroke-width="1.3"/>
+      <circle cx="245" cy="22" r="4" fill="#A78BFA"><animate attributeName="opacity" values="1;0.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
+      <text x="16" y="27" fill="#A78BFA" font-family="ui-monospace, monospace" font-size="11" font-weight="800">F&amp;B CHAINS &amp; FRANCHISE</text>
+      <line x1="16" y1="39" x2="249" y2="39" stroke="#7C3AED" stroke-opacity="0.5" stroke-width="1"/>
+      <circle cx="20" cy="62" r="2.5" fill="#A78BFA"/><text x="31" y="66" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Phúc Lộc Thọ (30+ POS)</text>
+      <circle cx="20" cy="90" r="2.5" fill="#A78BFA"/><text x="31" y="94" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Ampersand Group · En Group</text>
+      <circle cx="20" cy="118" r="2.5" fill="#A78BFA"/><text x="31" y="122" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Häagen-Dazs · The Running Bean</text>
+      <circle cx="20" cy="146" r="2.5" fill="#A78BFA"/><text x="31" y="150" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Esta Saigon · Snowee · Le Petit</text>
+      <circle cx="20" cy="174" r="2.5" fill="#A78BFA"/><text x="31" y="178" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Kiwami Ramen · KA-EN · Abiru-EN</text>
+      <circle cx="20" cy="202" r="2.5" fill="#A78BFA"/><text x="31" y="206" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Cowboy Steak · Bếp Nhà SON</text>
+    </g>
+    <g transform="translate(815, 18)">
+      <rect width="265" height="234" rx="14" fill="#070E22" fill-opacity="0.9" stroke="#10B981" stroke-width="1.3"/>
+      <circle cx="245" cy="22" r="4" fill="#34D399"><animate attributeName="opacity" values="1;0.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
+      <text x="16" y="27" fill="#34D399" font-family="ui-monospace, monospace" font-size="11" font-weight="800">DENTAL, FINTECH &amp; RETAIL</text>
+      <line x1="16" y1="39" x2="249" y2="39" stroke="#10B981" stroke-opacity="0.5" stroke-width="1"/>
+      <circle cx="20" cy="62" r="2.5" fill="#34D399"/><text x="31" y="66" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Nha Khoa Flora (VietQR ACB)</text>
+      <circle cx="20" cy="90" r="2.5" fill="#34D399"/><text x="31" y="94" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">ImplantSwiss Việt Nam</text>
+      <circle cx="20" cy="118" r="2.5" fill="#34D399"/><text x="31" y="122" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Brandson Medical Academy</text>
+      <circle cx="20" cy="146" r="2.5" fill="#34D399"/><text x="31" y="150" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Navastore E-Commerce</text>
+      <circle cx="20" cy="174" r="2.5" fill="#34D399"/><text x="31" y="178" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Navatek · MINTH Store</text>
+      <circle cx="20" cy="202" r="2.5" fill="#34D399"/><text x="31" y="206" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12.5" font-weight="600">Duyên Mai · Mystery Tarot</text>
+    </g>
+    <rect x="-280" y="1.5" width="280" height="2.2" fill="url(#partners_scan)">
+      <animate attributeName="x" from="-280" to="1100" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1100" y="266.5" width="280" height="2.2" fill="url(#partners_scan)">
+      <animate attributeName="x" from="1100" to="-280" dur="4.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect width="1100" height="270" rx="20" stroke="#1E3A8A" stroke-width="1.6"/>
+  <path d="M14 36 V14 H36" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1086 36 V14 H1064" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M14 234 V256 H36" stroke="#1E40FF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1086 234 V256 H1064" stroke="#F59E0B" stroke-width="2" stroke-linecap="round"/>
+</svg>

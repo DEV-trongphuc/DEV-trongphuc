@@ -1,332 +1,125 @@
 <div align="center">
 
-<!-- Animated Gradient Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,38:1E40FF,72:0284C7,100:0F172A&height=205&section=header&text=DOMATION%20%E2%80%A2%20TURNIO&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%C2%B7%20SaaS%20Platforms%20%C2%B7%20WebGL%203D%20%C2%B7%20Multi-Agent%20AI&descAlignY=62&descSize=16&descColor=38BDF8" width="100%" alt="DOMATION TURNIO Wave Banner"/>
-
-<br/>
-
-<!-- Animated Typing Tagline (Software & Apps Only) -->
+<!-- Animated Typing Slogan -->
 <a href="https://domation.net">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=920&lines=Founder+%26+Software+Architect+%40+DOMATION.NET+%E2%80%94+Building+Enterprise+Apps+%F0%9F%9A%80;Multi-Tenant+SaaS+Kernel+(182%2B+Tables%2C+PostgreSQL+FORCE+RLS)+%E2%9A%A1;Enterprise+ERP+5.0+(12+Modules)+%26+CRM+360%C2%B0+Kanban+Ecosystem+%F0%9F%8F%A2;Three.js+WebGL+3D+Architecture+%26+Multi-Agent+AI+CAD+Prepress+(208+SKU)+%F0%9F%A4%96;FinTech+VietQR+ACB+Real-Time+Webhooks+%26+Zalo+Mini+App+Infrastructure+%F0%9F%92%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=940&lines=HUYNH+TRONG+PHUC+%C2%B7+Founder+%26+Software+Architect+%40+DOMATION.NET+%F0%9F%9A%80;Multi-Tenant+SaaS+Kernel+(182%2B+Tables%2C+PostgreSQL+FORCE+RLS)+%E2%9A%A1;Enterprise+ERP+5.0+(12+Modules)+%26+CRM+360%C2%B0+Kanban+Ecosystem+%F0%9F%8F%A2;Three.js+WebGL+3D+Architecture+%26+Multi-Agent+AI+CAD+(208+SKU)+%F0%9F%A4%96;FinTech+VietQR+ACB+Webhook+%26+Zalo+Mini+App+Infrastructure+%F0%9F%92%8E" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<!-- Hero Cyber Grid, Hologram Radar, Dual Laser Sweeps & Live Product Chips -->
+<img src="./assets/hero-cyberwave.svg" width="100%" alt="Huynh Trong Phuc — Turnio Cyber HUD"/>
 
-<!-- Custom Animated Cyber Grid, Radar & Energy Waveform Hero -->
-<img src="./assets/hero-cyberwave.svg" width="100%" alt="Huynh Trong Phuc — Turnio Cyber Hero"/>
-
-<br/><br/>
-
-<!-- Minimal Single-Row Action Bar -->
-[![DOMATION.NET](https://img.shields.io/badge/DOMATION.NET-Portal-1E40FF?style=for-the-badge&logo=rocket&logoColor=white)](https://domation.net)
-[![Auto Data App](https://img.shields.io/badge/Auto_Data-Live_Workspace-10B981?style=for-the-badge&logo=lightning&logoColor=white)](https://data.domation.net/ecolife)
-[![Portfolio](https://img.shields.io/badge/Portfolio-All_Apps-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://domation.net/portfolio)
-[![Zalo](https://img.shields.io/badge/Zalo-0378.859.736-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0378859736)
-[![Email](https://img.shields.io/badge/Email-domation.net%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domation.net@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=DEV-trongphuc&label=Views&color=0F172A&style=for-the-badge)
-
-<br/><br/>
-
-<!-- Animated Border-Laser & Equalizer Telemetry Cards -->
-<img src="./assets/kpi-matrix.svg" width="100%" alt="Production Software KPIs"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## ⚡ `PRODUCTION SOFTWARE MESH · MULTI-APP ARCHITECTURE`
-
-<br/>
-
-<img src="./assets/apps-neural-grid.svg" width="100%" alt="Production Apps Neural Topology"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 📱 `LIVE PRODUCTION APPS & SOFTWARE SYSTEMS`
-
-*Tất cả sản phẩm phần mềm, nền tảng SaaS, WebGL 3D & hệ thống AI đã thiết kế, lập trình và vận hành thực tế.*
-
-</div>
-
-<br/>
-
+<!-- Unified Single-Row Cyber Dock Buttons -->
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://data.domation.net/ecolife">
-        <img src="https://domation.net/assets/domation/data_v2_overview.webp" width="100%" alt="DOMATION Auto Data V2 SaaS"/>
-      </a>
-      <br/>
-      <h4>⚡ DOMATION Auto Data V2 — Multi-Tenant SaaS Kernel</h4>
-      <sub><b>Production Workspace</b> · TypeScript · Express · PostgreSQL / PGlite FORCE RLS</sub>
-      <ul>
-        <li>Kiến trúc <b>182+ bảng</b> cô lập dữ liệu tenant tuyệt đối bằng <b>Kernel FORCE RLS</b></li>
-        <li>Động cơ phân bổ <b>5-Port Fair-Share Round-Robin</b>, cảnh báo ZaloBot <code>&lt; 5s</code></li>
-        <li>Cơ chế SLA Auto-Recall, AI Pre-screener, bù ticket 1:1 &amp; Webhook 2 chiều</li>
-      </ul>
-      <a href="https://domation.net/data"><img src="https://img.shields.io/badge/App-domation.net%2Fdata-1E40FF?style=flat-square"/></a>
-      <a href="https://data.domation.net/ecolife"><img src="https://img.shields.io/badge/Live_Demo-EcoLife-10B981?style=flat-square"/></a>
-      <a href="https://github.com/DEV-trongphuc/DOMATION_TENANRT"><img src="https://img.shields.io/badge/Source-DOMATION__TENANRT-0F172A?style=flat-square&logo=github"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://domation.net/erp">
-        <img src="https://domation.net/ERP-Product/1788856550308_2141578413905312186_2310722037673454867_9dee6011fca6751ff38ce855f9b34ee2.jpg" width="100%" alt="DOMATION Enterprise ERP 5.0"/>
-      </a>
-      <br/>
-      <h4>🏢 DOMATION Enterprise ERP 5.0 — 12 Phân Hệ Vận Hành</h4>
-      <sub><b>Full-Suite ERP</b> · Task Kanban · HRM · GPS Attendance · Payroll · DOM AI</sub>
-      <ul>
-        <li>Quản lý dự án Task Kanban, Pomodoro Workspace, Gantt &amp; Hộp thư phê duyệt N bước</li>
-        <li>Chấm công định vị <b>GPS Radius + AI Selfie</b> &amp; bảng tính lương <b>Payroll PDF</b> tự động</li>
-        <li>Trợ lý điều hành <b>DOM AI Copilot (80 RBAC Tools)</b>, WorkChat &amp; Kế toán TT200</li>
-      </ul>
-      <a href="https://domation.net/erp"><img src="https://img.shields.io/badge/Platform-domation.net%2Ferp-0284C7?style=flat-square"/></a>
-      <a href="https://github.com/DEV-trongphuc/MYERP"><img src="https://img.shields.io/badge/Repo-MYERP-0F172A?style=flat-square&logo=github"/></a>
-      <a href="https://github.com/DEV-trongphuc/IDEAS_ERP"><img src="https://img.shields.io/badge/Repo-IDEAS__ERP-0F172A?style=flat-square&logo=github"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://crm-domation.vercel.app/">
-        <img src="https://domation.net/assets/domation/crm_1.webp" width="100%" alt="DOMATION CRM 360"/>
-      </a>
-      <br/>
-      <h4>📊 DOMATION CRM 360° &amp; Sales Pipeline Engine</h4>
-      <sub><b>B2B &amp; B2C CRM Suite</b> · Kanban 8 Stage · Live Inventory · Quotes &amp; Deposits</sub>
-      <ul>
-        <li>Hồ sơ khách hàng <b>360° Timeline</b> đa tab, gán Deals B2B &amp; lịch sử tương tác</li>
-        <li>Quản lý rổ hàng live, báo giá SKU, đặt cọc đa đợt &amp; phiếu hợp tác chia hoa hồng</li>
-        <li>Đồng bộ hóa đơn điện tử, lọc trùng SĐT đa chiến dịch &amp; che PII theo cấp RBAC</li>
-      </ul>
-      <a href="https://domation.net/crm"><img src="https://img.shields.io/badge/Platform-domation.net%2Fcrm-1E40FF?style=flat-square"/></a>
-      <a href="https://crm-domation.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-CRM_4.0-10B981?style=flat-square"/></a>
-      <a href="https://github.com/DEV-trongphuc/crm"><img src="https://img.shields.io/badge/Source-crm-0F172A?style=flat-square&logo=github"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://domation.net/automation">
-        <img src="https://domation.net/assets/domation/auto_flow.webp" width="100%" alt="Automation Flow & AI Studio"/>
-      </a>
-      <br/>
-      <h4>🤖 Automation Flow Studio &amp; RAG AI Agents</h4>
-      <sub><b>Visual Builder Suite</b> · IF/ELSE Condition Tree · Email Drag &amp; Drop · Zalo ZNS</sub>
-      <ul>
-        <li>Trình dựng kịch bản kéo-thả rẽ nhánh <b>IF/ELSE</b> theo hành vi thời gian thực</li>
-        <li>Email Editor 15 block kết nối <b>Amazon SES</b>, Survey/Quiz Builder &amp; QR Voucher Hub</li>
-        <li>Huấn luyện <b>AI Chatbot đa kênh</b> từ tài liệu PDF nội bộ (Website, Zalo, Messenger)</li>
-      </ul>
-      <a href="https://domation.net/automation"><img src="https://img.shields.io/badge/App-domation.net%2Fautomation-7C3AED?style=flat-square"/></a>
-      <a href="https://github.com/DEV-trongphuc/AUTOFLOW"><img src="https://img.shields.io/badge/Source-AUTOFLOW-0F172A?style=flat-square&logo=github"/></a>
-      <a href="https://github.com/DEV-trongphuc/DOM-MARKETING"><img src="https://img.shields.io/badge/Repo-DOM--MARKETING-0F172A?style=flat-square&logo=github"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://ai.ecolifesignature.vn/">
-        <img src="https://domation.net/assets/ecolife/bocmai/bocmai_3d_b3.webp" width="100%" alt="EcoLife Signature 3D WebGL"/>
-      </a>
-      <br/>
-      <h4>🏙️ EcoLife Signature · WebGL 3D &amp; AI Sales Portal</h4>
-      <sub><b>Capital House PropTech</b> · Three.js Draco 3D · AI Sales Assistant 24/7</sub>
-      <ul>
-        <li>Sa bàn tương tác <b>Three.js WebGL 8 căn hộ bóc mái 3D</b> nén Draco (<code>&lt; 3.5MB/model</code>)</li>
-        <li>Trợ lý AI Sales Portal trực dự án 24/7 cho chuyên viên &amp; khách xem trực tuyến</li>
-        <li>Tích hợp Auto Data Router 3 cổng đại lý F1 &amp; hệ thống QR Tracking 25 điểm OOH</li>
-      </ul>
-      <a href="https://ai.ecolifesignature.vn/"><img src="https://img.shields.io/badge/Live_App-ai.ecolifesignature.vn-1E40FF?style=flat-square"/></a>
-      <a href="https://github.com/DEV-trongphuc/Green-Living-Lab"><img src="https://img.shields.io/badge/Repo-Green--Living--Lab-0F172A?style=flat-square&logo=github"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://ai.inkica.com/">
-        <img src="https://domation.net/assets/inkica/inkica_aop_3d.jpg" width="100%" alt="INKICA AI POD Studio"/>
-      </a>
-      <br/>
-      <h4>🎨 INKICA AI POD Studio · Multi-Agent 3D CAD Prepress</h4>
-      <sub><b>INKICA Global Studio</b> · Next.js 14 · Three.js · BullMQ GPU · SAM 3 + ViTMatte</sub>
-      <ul>
-        <li><b>Omni Orchestrator 6 AI Prepress Agents</b> chạy trọn quy trình trong <b>60 giây</b></li>
-        <li><b>Neural Extract 300 DPI</b> tách nền &amp; chuẩn hóa tọa độ lưới UV Cubic Bezier</li>
-        <li>Render <b>AOP 3D CAD 208 SKU</b> &amp; 88 Canonical Models với <b>0 px</b> lệch đường may</li>
-      </ul>
-      <a href="https://ai.inkica.com/"><img src="https://img.shields.io/badge/Live_App-ai.inkica.com-7C3AED?style=flat-square"/></a>
-      <a href="https://domation.net/portfolio"><img src="https://img.shields.io/badge/Showcase-Portfolio-0284C7?style=flat-square"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://nhakhoaflora.com">
-        <img src="https://domation.net/assets/flora/flora_admin_dashboard.webp" width="100%" alt="Nha Khoa Flora VietQR ACB App"/>
-      </a>
-      <br/>
-      <h4>💎 Nha Khoa Flora · Affiliate Portal &amp; VietQR ACB App</h4>
-      <sub><b>HealthTech Fintech</b> · VietQR Dynamic Generator · ACB Bank Webhook · HIPAA Mask</sub>
-      <ul>
-        <li>Cổng đặt E-Voucher tự động sinh mã <b>VietQR ACB</b> gán mã KOL/Đơn chính xác</li>
-        <li><b>ACB Webhook đối soát real-time 100%</b>, duyệt rút tiền Napas 24/7 &amp; báo Zalo OA</li>
-        <li>Partner Portal không cần mật khẩu qua Secret Hash Token, che SĐT chuẩn y khoa HIPAA</li>
-      </ul>
-      <a href="https://nhakhoaflora.com"><img src="https://img.shields.io/badge/Live-nhakhoaflora.com-10B981?style=flat-square"/></a>
-      <a href="https://github.com/DEV-trongphuc/flora"><img src="https://img.shields.io/badge/Source-flora-0F172A?style=flat-square&logo=github"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://domation.net">
-        <img src="https://domation.net/imgs/enterprise/hero-domation-hub.webp" width="100%" alt="DOMATION Web Platform & Rich Land & Nava"/>
-      </a>
-      <br/>
-      <h4>🌐 DOMATION.NET Portal · Rich Land &amp; Nava E-Commerce</h4>
-      <sub><b>Fullstack Web &amp; Commerce</b> · React 19 · Vite SSR Prerender · Knowledge RAG · SEO/GEO</sub>
-      <ul>
-        <li><b>DOMATION.NET</b>: Cổng sản phẩm + Blog kiến trúc (<code>/boost</code>) + 89 HTML Prerender &amp; <code>llms.txt</code></li>
-        <li><b>Rich Land PropTech</b>: App CRM Tranh nhận (Pool Claim) / Chia vòng &amp; kho DataBank</li>
-        <li><b>Nava Store &amp; Brandson</b>: Web E-Commerce <code>&lt; 3s</code> tải trang, đồng bộ giỏ hàng &amp; hóa đơn ĐT</li>
-      </ul>
-      <a href="https://domation.net"><img src="https://img.shields.io/badge/Portal-domation.net-1E40FF?style=flat-square"/></a>
-      <a href="https://rich-land.vercel.app/"><img src="https://img.shields.io/badge/App-Rich_Land-F59E0B?style=flat-square"/></a>
-      <a href="https://github.com/DEV-trongphuc/domation_page"><img src="https://img.shields.io/badge/Source-domation__page-0F172A?style=flat-square&logo=github"/></a>
-    </td>
+    <td width="20%"><a href="https://domation.net"><img src="./assets/btn-portal.svg" width="100%" alt="DOMATION.NET Portal"/></a></td>
+    <td width="20%"><a href="https://data.domation.net/ecolife"><img src="./assets/btn-autodata.svg" width="100%" alt="Auto Data Live"/></a></td>
+    <td width="20%"><a href="https://domation.net/portfolio"><img src="./assets/btn-portfolio.svg" width="100%" alt="Portfolio Showcase"/></a></td>
+    <td width="20%"><a href="https://zalo.me/0378859736"><img src="./assets/btn-zalo.svg" width="100%" alt="Zalo 0378.859.736"/></a></td>
+    <td width="20%"><a href="mailto:domation.net@gmail.com"><img src="./assets/btn-email.svg" width="100%" alt="Email domation.net@gmail.com"/></a></td>
   </tr>
 </table>
 
+<!-- Animated Border-Laser KPI Matrix -->
+<img src="./assets/kpi-matrix.svg" width="100%" alt="Software Engineering KPIs"/>
+
 <br/>
+
+<!-- Section 01: Production Software Mesh -->
+<img src="./assets/sec-mesh.svg" width="100%" alt="Production Software Mesh Header"/>
+<img src="./assets/apps-neural-grid.svg" width="100%" alt="DOMATION Multi-App Topology"/>
+
+<br/>
+
+<!-- Section 02: Real Production Apps Showcase (All 8 Interactive Cyber Cards with Embedded Live Screenshots) -->
+<img src="./assets/sec-apps.svg" width="100%" alt="Live Production Apps Header"/>
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://data.domation.net/ecolife"><img src="./assets/app-autodata.svg" width="100%" alt="DOMATION Auto Data V2 Engine"/></a></td>
+    <td width="50%"><a href="https://domation.net/erp"><img src="./assets/app-erp.svg" width="100%" alt="DOMATION Enterprise ERP 5.0"/></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://crm-domation.vercel.app/"><img src="./assets/app-crm.svg" width="100%" alt="DOMATION CRM 360 & Deals Kanban"/></a></td>
+    <td width="50%"><a href="https://domation.net/automation"><img src="./assets/app-automation.svg" width="100%" alt="Automation Flow Studio & AI Agents"/></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://ai.ecolifesignature.vn/"><img src="./assets/app-ecolife.svg" width="100%" alt="EcoLife Signature WebGL 3D & AI"/></a></td>
+    <td width="50%"><a href="https://ai.inkica.com/"><img src="./assets/app-inkica.svg" width="100%" alt="INKICA AI POD Studio 208 SKU 3D"/></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://nhakhoaflora.com"><img src="./assets/app-flora.svg" width="100%" alt="Nha Khoa Flora Affiliate & VietQR ACB"/></a></td>
+    <td width="50%"><a href="https://domation.net"><img src="./assets/app-portal.svg" width="100%" alt="DOMATION.NET, Rich Land & Nava Store"/></a></td>
+  </tr>
+</table>
 
 <details>
-<summary><b>🧩 Xem thêm Hệ thống Web/App, Công cụ &amp; Repo Open-Source trong 69+ Repositories</b></summary>
+<summary><b>📂 Mở danh sách đầy đủ 15+ Apps &amp; 69+ GitHub Repositories (PORTFO · EDU-APP · MYERP · Tools · OSS)</b></summary>
 <br/>
 
-| App / Repo | Category | Highlights & Stack | Link |
-|:---|:---|:---|:---|
-| **DOMATION_TENANRT** | SaaS Backend Kernel | Multi-Tenant PostgreSQL / PGlite FORCE RLS, 182+ tables, RBAC 4 tiers, VietQR, OCR | [GitHub](https://github.com/DEV-trongphuc/DOMATION_TENANRT) |
-| **domation_page** | SaaS Portal & Blog | DOMATION.NET React 19 + TypeScript + Vite SSR Prerender + 50+ Technical Articles | [GitHub](https://github.com/DEV-trongphuc/domation_page) |
-| **portfo** | Interactive Portfolio | Executive 3D Portfolio Showcase (`portfo-turnio.vercel.app`) with AI RAG Search | [Live](https://portfo-turnio.vercel.app/) · [GitHub](https://github.com/DEV-trongphuc/portfo) |
-| **EDU-APP & IDEAS_ERP** | EdTech & ERP 5.0 | Academic Gradebook, Timetable, HRM Attendance GPS, Payroll PDF & Admissions CRM | [GitHub](https://github.com/DEV-trongphuc/EDU-APP) |
-| **ImplantSwiss Việt Nam** | B2B Medical CRM | Regional Row-Level Security isolation & Phone Masking Audit portal | [Live](https://implantswiss.vn/) |
-| **NAVATEK & MINTH Store** | Brand & Commerce Web | Custom high-speed storefronts & interactive Web product showcases | [NAVATEK](https://github.com/DEV-trongphuc/NAVATEK) · [minth](https://github.com/DEV-trongphuc/minth) |
-| **dom_tools / divideo / video_ui** | Internal Dev Tools | Video & media workflow UI tools, YouTube transcript extractor & data utilities | [dom_tools](https://github.com/DEV-trongphuc/dom_tools) · [divideo](https://github.com/DEV-trongphuc/divideo) |
-| **Tarot-Vibecode & vnstock** | Side Projects | Interactive Mystical Web App (`mystery-tarot.net`) & Vietnam stock analysis tools | [Tarot](https://github.com/DEV-trongphuc/Tarot-Vibecode) · [vnstock](https://github.com/DEV-trongphuc/vnstock) |
-| **slider · sliderInfinity · library** | Open-Source UI | Popular frontend animation sliders & utility libraries (**29+ GitHub Stars** combined) | [slider ⭐10](https://github.com/DEV-trongphuc/slider) · [sliderInfinity ⭐7](https://github.com/DEV-trongphuc/sliderInfinity) |
+| App / Repository | Category | Architecture &amp; Live Link |
+|:---|:---|:---|
+| **[DOMATION_TENANRT](https://github.com/DEV-trongphuc/DOMATION_TENANRT)** | Multi-Tenant Backend Kernel | `TypeScript` · `Express` · `PostgreSQL / PGlite FORCE RLS` (`182+` tables), RBAC, VietQR, OCR |
+| **[domation_page](https://github.com/DEV-trongphuc/domation_page)** | Main SaaS Portal &amp; `/data` | `React 19` · `TypeScript` · `Vite SSR Prerender` (`89` HTML targets) · Blog RAG · [domation.net](https://domation.net) |
+| **[MYERP](https://github.com/DEV-trongphuc/MYERP)** · **[IDEAS_ERP](https://github.com/DEV-trongphuc/IDEAS_ERP)** | Enterprise ERP 5.0 Suite | 12-module ERP (HRM, GPS Selfie AI Attendance, Payroll PDF, Approvals, Accounting, WorkChat) |
+| **[AUTOFLOW](https://github.com/DEV-trongphuc/AUTOFLOW)** · **[crm](https://github.com/DEV-trongphuc/crm)** | CRM 360° &amp; Flow Studio | Visual `IF/ELSE` Flow Builder, Email SES Builder, Survey, QR Voucher Hub |
+| **[portfo](https://github.com/DEV-trongphuc/portfo)** | Executive Portfolio App | Interactive 3D Showcase &amp; AI RAG Assistant — [portfo-turnio.vercel.app](https://portfo-turnio.vercel.app/) |
+| **[flora](https://github.com/DEV-trongphuc/flora)** | HealthTech Fintech App | Affiliate KOL Portal (Secret Token) &amp; ACB VietQR Webhook — [nhakhoaflora.com](https://nhakhoaflora.com) |
+| **[Green-Living-Lab](https://github.com/DEV-trongphuc/Green-Living-Lab)** | PropTech WebGL 3D | EcoLife Signature Three.js Draco 3D Showcase — [ai.ecolifesignature.vn](https://ai.ecolifesignature.vn/) |
+| **[EDU-APP](https://github.com/DEV-trongphuc/EDU-APP)** · **Brandson** · **ImplantSwiss** | EdTech &amp; Medical Apps | Academic Gradebook, Timetable, CME Portal &amp; Regional RLS CRM ([brandson.vn](https://brandson.vn), [implantswiss.vn](https://implantswiss.vn/)) |
+| **[NAVATEK](https://github.com/DEV-trongphuc/NAVATEK)** · **[minth](https://github.com/DEV-trongphuc/minth)** · **[Tarot-Vibecode](https://github.com/DEV-trongphuc/Tarot-Vibecode)** | Commerce &amp; Interactive Web | High-speed Brand Storefronts, Rich Land DataBank ([rich-land.vercel.app](https://rich-land.vercel.app/)) &amp; Interactive Web Apps |
+| **[dom_tools](https://github.com/DEV-trongphuc/dom_tools)** · **[divideo](https://github.com/DEV-trongphuc/divideo)** · **[vnstock](https://github.com/DEV-trongphuc/vnstock)** | Internal Dev Utilities | Media processing UI, transcript extraction &amp; market data tooling |
+| **[slider](https://github.com/DEV-trongphuc/slider)** (⭐10) · **[sliderInfinity](https://github.com/DEV-trongphuc/sliderInfinity)** (⭐7) · **[library](https://github.com/DEV-trongphuc/library)** (⭐6) | Open-Source UI Libraries | Lightweight frontend sliders, layout kits &amp; utilities (`29+` combined stars) |
 
 </details>
 
 <br/>
 
----
-
-<div align="center">
-
-## 🪐 `ANIMATED TECH ORBIT & ENGINEERING STACK`
+<!-- Section 03: Tech Orbit Solar System -->
+<img src="./assets/sec-stack.svg" width="100%" alt="Tech Orbit Header"/>
+<img src="./assets/tech-orbit.svg" width="100%" alt="Animated Tech Orbit Solar System"/>
 
 <br/>
-
-<img src="./assets/tech-orbit.svg" width="100%" alt="Animated Solar System Tech Stack"/>
-
-<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,nodejs,express,postgres,mysql,mongodb,firebase,python,php,docker,cloudflare,vercel,git&perline=9" alt="Tech Icons Grid"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
----
-
-<div align="center">
-
-## 📊 `LIVE GITHUB TELEMETRY (@DEV-trongphuc)`
-
-<br/>
+<!-- Section 04: Live GitHub Telemetry -->
+<img src="./assets/sec-telemetry.svg" width="100%" alt="GitHub Telemetry Header"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEV-trongphuc&theme=tokyonight" width="100%" alt="DEV-trongphuc Profile Summary"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DEV-trongphuc&theme=tokyonight" height="175" alt="DEV-trongphuc Stats"/>
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DEV-trongphuc&theme=tokyonight" height="175" alt="DEV-trongphuc Top Languages"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=DEV-trongphuc&theme=tokyonight&hide_border=false&border=1E40FF&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="DEV-trongphuc GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=DEV-trongphuc&theme=tokyonight&hide_border=false&border=1E3A8A&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="DEV-trongphuc GitHub Streak"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEV-trongphuc&theme=tokyo-night&bg_color=030712&color=38BDF8&line=1E40FF&point=F59E0B&area=true&hide_border=true" width="100%" alt="DEV-trongphuc Activity Graph"/>
 
-</div>
-
 <br/>
 
----
-
-<div align="center">
-
-## 🚀 `2026 PRODUCT ROADMAP (ANIMATED TIMELINE)`
-
-<br/>
-
+<!-- Section 05: Animated 2026 Product Roadmap -->
+<img src="./assets/sec-roadmap.svg" width="100%" alt="Roadmap Header"/>
 <img src="./assets/roadmap-pulse.svg" width="100%" alt="2026 Product Engineering Roadmap"/>
 
-</div>
-
 <br/>
 
----
-
-<div align="center">
-
-## 🤝 `30+ CLIENT SYSTEMS & ENTERPRISE PARTNERS`
-
-</div>
-
-<table>
-  <tr>
-    <th>🏗️ Real Estate &amp; AI Tech</th>
-    <th>🎓 Education &amp; EdTech</th>
-    <th>🍽️ F&amp;B &amp; Franchise Apps</th>
-    <th>🏥 Dental, FinTech &amp; Retail</th>
-  </tr>
-  <tr>
-    <td>
-      • <b>Capital House Group</b><br/>
-      • <b>EcoLife Signature Đà Nẵng</b><br/>
-      • <b>INKICA AI POD Studio</b><br/>
-      • <b>Rich Land PropTech</b><br/>
-      • Địa Ốc Tùng Long · Hợp Nhất Land · IHD
-    </td>
-    <td>
-      • <b>IDEAS Business Institute</b><br/>
-      • <b>Swiss UMEF</b> · <b>Collège de Paris</b><br/>
-      • <b>ESTIAM Paris</b> · <b>ISTEC Paris</b><br/>
-      • Ascencia Business School · VTCI Edu
-    </td>
-    <td>
-      • <b>Phúc Lộc Thọ</b> (30+ POS Sync)<br/>
-      • <b>Ampersand Group</b> · <b>En Group</b><br/>
-      • <b>Häagen-Dazs</b> · <b>The Running Bean</b><br/>
-      • Esta Saigon · Snowee · Kiwami · KA-EN
-    </td>
-    <td>
-      • <b>Nha Khoa Flora</b> (VietQR ACB)<br/>
-      • <b>ImplantSwiss</b> · <b>Brandson Academy</b><br/>
-      • <b>Navastore</b> · <b>Navatek</b> · <b>MINTH Store</b><br/>
-      • Duyên Mai · Mystery Tarot · Tiên Hoàng
-    </td>
-  </tr>
-</table>
+<!-- Section 06: 30+ Enterprise Partners in Cyber Canvas -->
+<img src="./assets/sec-partners.svg" width="100%" alt="Client Systems Header"/>
+<img src="./assets/partners-matrix.svg" width="100%" alt="30+ Enterprise Partners Matrix"/>
 
 <details>
-<summary><b>🏅 Verified Certifications (freeCodeCamp · Fullstack F8 · TOP CV)</b></summary>
+<summary><b>🏅 Verified Engineering Certifications (freeCodeCamp · Fullstack F8 · TOP CV)</b></summary>
 <br/>
 
-| Certificate | Issuer | Year | Verify |
+| Certificate | Issuer | Year | Link |
 |:---|:---:|:---:|:---:|
 | Front End Development Libraries | freeCodeCamp | 2021 | [Verify](https://www.freecodecamp.org/certification/trongphuc3105/front-end-development-libraries) |
 | Responsive Web Design | freeCodeCamp | 2021 | [Verify](https://www.freecodecamp.org/certification/trongphuc3105/responsive-web-design) |
@@ -339,15 +132,15 @@
 
 <br/>
 
----
-
-<div align="center">
-
-> *"Kiến tạo phần mềm doanh nghiệp may đo tốc độ cao — từ SaaS Kernel bảo mật RLS, ERP 5.0 đến WebGL 3D &amp; Multi-Agent AI."*  
-> — **Huỳnh Trọng Phúc (`@DEV-trongphuc` · `TURNIO`)** · [domation.net](https://domation.net) · [LinkedIn](https://www.linkedin.com/in/turnio-dev/) · [TikTok @turnio.dev](https://www.tiktok.com/@turnio.dev) · [Facebook](https://www.facebook.com/3105trongphuc)
+<!-- Unified Cyber Footer Canvas -->
+<img src="./assets/footer-cyber.svg" width="100%" alt="DOMATION Cyber Footer"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:0284C7,75:1E40FF,100:030712&height=125&section=footer" width="100%" alt="DOMATION Footer Wave"/>
+![Profile Views](https://komarev.com/ghpvc/?username=DEV-trongphuc&label=Profile+Views&color=1E40FF&style=flat-square)
+![Followers](https://img.shields.io/github/followers/DEV-trongphuc?label=Followers&style=flat-square&color=0284C7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-turnio--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turnio-dev/)
+[![TikTok](https://img.shields.io/badge/TikTok-%40turnio.dev-0F172A?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@turnio.dev)
+[![Facebook](https://img.shields.io/badge/Facebook-3105trongphuc-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/3105trongphuc)
 
 </div>
