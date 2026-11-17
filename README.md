@@ -8,16 +8,14 @@
 <!-- Hero Cyber Grid, Hologram Radar, Dual Laser Sweeps & Live Product Chips -->
 <img src="./assets/hero-cyberwave.svg" width="100%" alt="Huynh Trong Phuc — Turnio Cyber HUD"/>
 
-<!-- Unified Single-Row Cyber Dock Buttons -->
-<table>
-  <tr>
-    <td width="20%"><a href="https://domation.net"><img src="./assets/btn-portal.svg" width="100%" alt="DOMATION.NET Portal"/></a></td>
-    <td width="20%"><a href="https://data.domation.net/ecolife"><img src="./assets/btn-autodata.svg" width="100%" alt="Auto Data Live"/></a></td>
-    <td width="20%"><a href="https://domation.net/portfolio"><img src="./assets/btn-portfolio.svg" width="100%" alt="Portfolio Showcase"/></a></td>
-    <td width="20%"><a href="https://zalo.me/0378859736"><img src="./assets/btn-zalo.svg" width="100%" alt="Zalo 0378.859.736"/></a></td>
-    <td width="20%"><a href="mailto:domation.net@gmail.com"><img src="./assets/btn-email.svg" width="100%" alt="Email domation.net@gmail.com"/></a></td>
-  </tr>
-</table>
+<!-- Full-Width Single-Row Cyber Dock Buttons (No Table Shrinking) -->
+<p align="center">
+  <a href="https://domation.net"><img src="./assets/btn-portal.svg" width="19%" alt="DOMATION.NET Portal"/></a>
+  <a href="https://data.domation.net/ecolife"><img src="./assets/btn-autodata.svg" width="19%" alt="Auto Data Live"/></a>
+  <a href="https://domation.net/portfolio"><img src="./assets/btn-portfolio.svg" width="19%" alt="Portfolio Showcase"/></a>
+  <a href="https://zalo.me/0378859736"><img src="./assets/btn-zalo.svg" width="19%" alt="Zalo 0378.859.736"/></a>
+  <a href="mailto:domation.net@gmail.com"><img src="./assets/btn-email.svg" width="19%" alt="Email domation.net@gmail.com"/></a>
+</p>
 
 <!-- Animated Border-Laser KPI Matrix -->
 <img src="./assets/kpi-matrix.svg" width="100%" alt="Software Engineering KPIs"/>
@@ -30,27 +28,25 @@
 
 <br/>
 
-<!-- Section 02: Real Production Apps Showcase (All 8 Interactive Cyber Cards with Embedded Live Screenshots) -->
+<!-- Section 02: Full-Width Real Production Apps Showcase (No Table Borders / Full Width) -->
 <img src="./assets/sec-apps.svg" width="100%" alt="Live Production Apps Header"/>
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://data.domation.net/ecolife"><img src="./assets/app-autodata.svg" width="100%" alt="DOMATION Auto Data V2 Engine"/></a></td>
-    <td width="50%"><a href="https://domation.net/erp"><img src="./assets/app-erp.svg" width="100%" alt="DOMATION Enterprise ERP 5.0"/></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://crm-domation.vercel.app/"><img src="./assets/app-crm.svg" width="100%" alt="DOMATION CRM 360 & Deals Kanban"/></a></td>
-    <td width="50%"><a href="https://domation.net/automation"><img src="./assets/app-automation.svg" width="100%" alt="Automation Flow Studio & AI Agents"/></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://ai.ecolifesignature.vn/"><img src="./assets/app-ecolife.svg" width="100%" alt="EcoLife Signature WebGL 3D & AI"/></a></td>
-    <td width="50%"><a href="https://ai.inkica.com/"><img src="./assets/app-inkica.svg" width="100%" alt="INKICA AI POD Studio 208 SKU 3D"/></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://nhakhoaflora.com"><img src="./assets/app-flora.svg" width="100%" alt="Nha Khoa Flora Affiliate & VietQR ACB"/></a></td>
-    <td width="50%"><a href="https://domation.net"><img src="./assets/app-portal.svg" width="100%" alt="DOMATION.NET, Rich Land & Nava Store"/></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://data.domation.net/ecolife"><img src="./assets/app-autodata.svg" width="49.3%" alt="DOMATION Auto Data V2 Engine"/></a>
+  <a href="https://domation.net/erp"><img src="./assets/app-erp.svg" width="49.3%" alt="DOMATION Enterprise ERP 5.0"/></a>
+</p>
+<p align="center">
+  <a href="https://crm-domation.vercel.app/"><img src="./assets/app-crm.svg" width="49.3%" alt="DOMATION CRM 360 & Deals Kanban"/></a>
+  <a href="https://domation.net/automation"><img src="./assets/app-automation.svg" width="49.3%" alt="Automation Flow Studio & AI Agents"/></a>
+</p>
+<p align="center">
+  <a href="https://ai.ecolifesignature.vn/"><img src="./assets/app-ecolife.svg" width="49.3%" alt="EcoLife Signature WebGL 3D & AI"/></a>
+  <a href="https://ai.inkica.com/"><img src="./assets/app-inkica.svg" width="49.3%" alt="INKICA AI POD Studio 208 SKU 3D"/></a>
+</p>
+<p align="center">
+  <a href="https://nhakhoaflora.com"><img src="./assets/app-flora.svg" width="49.3%" alt="Nha Khoa Flora Affiliate & VietQR ACB"/></a>
+  <a href="https://domation.net"><img src="./assets/app-portal.svg" width="49.3%" alt="DOMATION.NET, Rich Land & Nava Store"/></a>
+</p>
 
 <details>
 <summary><b>📂 Mở danh sách đầy đủ 15+ Apps &amp; 69+ GitHub Repositories (PORTFO · EDU-APP · MYERP · Tools · OSS)</b></summary>
@@ -91,13 +87,12 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DEV-trongphuc&theme=tokyonight" height="175" alt="DEV-trongphuc Stats"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DEV-trongphuc&theme=tokyonight" height="175" alt="DEV-trongphuc Top Languages"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DEV-trongphuc&theme=tokyonight" width="49%" alt="DEV-trongphuc Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DEV-trongphuc&theme=tokyonight" width="49%" alt="DEV-trongphuc Top Languages"/>
+</p>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=DEV-trongphuc&theme=tokyonight&hide_border=false&border=1E3A8A&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="DEV-trongphuc GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=DEV-trongphuc&theme=tokyonight&hide_border=false&border=1E3A8A&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" width="100%" alt="DEV-trongphuc GitHub Streak"/>
 
 <br/>
 

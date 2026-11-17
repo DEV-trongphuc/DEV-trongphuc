@@ -36,8 +36,8 @@
       <animate attributeName="r" values="6;13" dur="1.8s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite"/>
     </circle>
-    <text x="38" y="23" fill="#FBBF24" font-family="ui-monospace, monospace" font-size="10" font-weight="700" letter-spacing="1.4">EMAIL WORK</text>
-    <text x="38" y="40" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13.5" font-weight="800">domation.net@</text>
+    <text x="38" y="23" fill="#FBBF24" font-family="ui-monospace, monospace" font-size="10" font-weight="700" letter-spacing="1.4">DOMATION.NET@GMAIL</text>
+    <text x="38" y="40" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13.5" font-weight="800">Contact Mail</text>
     <path d="M188 27 H198 M194 23 L198 27 L194 31" stroke="#FBBF24" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
     <rect x="-280" y="1.5" width="280" height="2.2" fill="url(#btn_email_scan)">
       <animate attributeName="x" from="-280" to="212" dur="2.6s" repeatCount="indefinite"/>
