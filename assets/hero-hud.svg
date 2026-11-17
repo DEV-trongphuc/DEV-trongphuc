@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 220" width="100%" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1100" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#0B132B"/>
+      <stop offset="100%" stop-color="#071B3B"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E40FF"/>
+      <stop offset="45%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#1E40FF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1E40FF" stroke-opacity="0.14" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1100" height="220" rx="18" fill="url(#bgGrad)" stroke="#1E3A8A" stroke-width="1.5"/>
+  <rect width="1100" height="220" rx="18" fill="url(#grid)"/>
+
+  <!-- Animated Top Scanner Beam -->
+  <rect x="-260" y="2" width="260" height="2.5" fill="url(#scanGrad)">
+    <animate attributeName="x" from="-260" to="1100" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Animated Bottom Scanner Beam -->
+  <rect x="1100" y="216" width="260" height="2.5" fill="url(#scanGrad)">
+    <animate attributeName="x" from="1100" to="-260" dur="4.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner Brackets -->
+  <path d="M18 42 V18 H42" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1082 42 V18 H1058" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M18 178 V202 H42" stroke="#1E40FF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1082 178 V202 H1058" stroke="#F59E0B" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Left Radar Node -->
+  <g transform="translate(102, 110)">
+    <circle r="54" stroke="#1E40FF" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="6 4">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="40" stroke="#38BDF8" stroke-opacity="0.65" stroke-width="1.5" stroke-dasharray="18 8">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="24" fill="#1E40FF" fill-opacity="0.22" stroke="#60A5FA" stroke-width="1.5"/>
+    <circle r="10" fill="#38BDF8">
+      <animate attributeName="r" values="7;11;7" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Main Identity & Title -->
+  <text x="184" y="64" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="2.5">SYSTEM ONLINE  //  HCMC, VIETNAM  //  ENTERPRISE HYBRID ARCHITECT</text>
+  <text x="184" y="106" fill="#FFFFFF" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="34" font-weight="800">HUYNH TRONG PHUC  <tspan fill="#F59E0B">·</tspan>  <tspan fill="url(#accentGrad)">TURNIO DEV</tspan></text>
+  <text x="184" y="138" fill="#CBD5E1" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" font-weight="500">Founder &amp; Solutions Architect @ DOMATION Ecosystem  —  Marketing Performance × Fullstack × AI Automation</text>
+
+  <!-- Live Telemetry Pills -->
+  <g transform="translate(184, 158)">
+    <rect x="0" y="0" width="166" height="32" rx="8" fill="#0F172A" stroke="#1E40FF" stroke-width="1"/>
+    <circle cx="16" cy="16" r="4" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="28" y="21" fill="#E2E8F0" font-family="ui-monospace, monospace" font-size="12" font-weight="700">LEAD SLA: &lt; 5s</text>
+
+    <rect x="180" y="0" width="184" height="32" rx="8" fill="#0F172A" stroke="#0284C7" stroke-width="1"/>
+    <circle cx="196" cy="16" r="4" fill="#38BDF8">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="208" y="21" fill="#E2E8F0" font-family="ui-monospace, monospace" font-size="12" font-weight="700">META CAPI: HTTP 200</text>
+
+    <rect x="378" y="0" width="182" height="32" rx="8" fill="#0F172A" stroke="#7C3AED" stroke-width="1"/>
+    <circle cx="394" cy="16" r="4" fill="#A78BFA">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="406" y="21" fill="#E2E8F0" font-family="ui-monospace, monospace" font-size="12" font-weight="700">30+ BRAND PARTNERS</text>
+
+    <rect x="574" y="0" width="168" height="32" rx="8" fill="#0F172A" stroke="#D97706" stroke-width="1"/>
+    <circle cx="590" cy="16" r="4" fill="#FBBF24">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="602" y="21" fill="#E2E8F0" font-family="ui-monospace, monospace" font-size="12" font-weight="700">69+ GITHUB REPOS</text>
+  </g>
+</svg>

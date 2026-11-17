@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 130" width="100%" fill="none">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B132B"/>
+      <stop offset="100%" stop-color="#050816"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#1E40FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(8, 10)">
+    <rect width="258" height="108" rx="14" fill="url(#cardBg)" stroke="#1E40FF" stroke-width="1.5"/>
+    <circle cx="234" cy="24" r="4.5" fill="#38BDF8"><animate attributeName="opacity" values="1;0.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
+    <text x="20" y="34" fill="#60A5FA" font-family="ui-monospace, monospace" font-size="11" font-weight="700">ECOSYSTEM SCALE</text>
+    <text x="20" y="72" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="30" font-weight="800">30+ Brands</text>
+    <text x="20" y="94" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12">10 Flagship Systems · 69 Repos</text>
+  </g>
+
+  <g transform="translate(282, 10)">
+    <rect width="258" height="108" rx="14" fill="url(#cardBg)" stroke="#0284C7" stroke-width="1.5"/>
+    <circle cx="234" cy="24" r="4.5" fill="#10B981"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="20" y="34" fill="#38BDF8" font-family="ui-monospace, monospace" font-size="11" font-weight="700">LEAD ROUTING &amp; SLA</text>
+    <text x="20" y="72" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="30" font-weight="800">150K+ Leads</text>
+    <text x="20" y="94" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12">ZaloBot Delivery &lt; 5s · ~0% Skew</text>
+  </g>
+
+  <g transform="translate(556, 10)">
+    <rect width="258" height="108" rx="14" fill="url(#cardBg)" stroke="#7C3AED" stroke-width="1.5"/>
+    <circle cx="234" cy="24" r="4.5" fill="#A78BFA"><animate attributeName="opacity" values="1;0.3;1" dur="2.0s" repeatCount="indefinite"/></circle>
+    <text x="20" y="34" fill="#A78BFA" font-family="ui-monospace, monospace" font-size="11" font-weight="700">AD PERFORMANCE</text>
+    <text x="20" y="72" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="30" font-weight="800">500M+ / mo</text>
+    <text x="20" y="94" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12">Avg ROAS 4.8x · Meta CAPI HTTP 200</text>
+  </g>
+
+  <g transform="translate(830, 10)">
+    <rect width="262" height="108" rx="14" fill="url(#cardBg)" stroke="#D97706" stroke-width="1.5"/>
+    <circle cx="238" cy="24" r="4.5" fill="#FBBF24"><animate attributeName="opacity" values="0.4;1;0.4" dur="1.7s" repeatCount="indefinite"/></circle>
+    <text x="20" y="34" fill="#FBBF24" font-family="ui-monospace, monospace" font-size="11" font-weight="700">COMMUNITY &amp; 3D AI</text>
+    <text x="20" y="72" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="30" font-weight="800">11K+ Dev</text>
+    <text x="20" y="94" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12">@turnio.dev · 208 SKU 3D · 6 AI Agents</text>
+  </g>
+
+  <rect x="-240" y="8" width="240" height="3" fill="url(#shimmer)">
+    <animate attributeName="x" from="-240" to="1100" dur="3.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
