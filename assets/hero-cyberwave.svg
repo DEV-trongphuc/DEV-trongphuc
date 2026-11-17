@@ -113,25 +113,25 @@
 
     <!-- Live Product Highlight Bar (Clean Visual Chips, No Code) -->
     <g transform="translate(275, 178)">
-      <rect x="0" y="0" width="186" height="44" rx="11" fill="#0F172A" fill-opacity="0.92" stroke="#1E40FF" stroke-width="1.4"/>
-      <circle cx="18" cy="22" r="4.5" fill="#10B981"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
-      <text x="32" y="20" fill="#93C5FD" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">CORE PLATFORM</text>
-      <text x="32" y="35" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="800">DOMATION Enterprise OS</text>
+      <rect x="0" y="0" width="196" height="44" rx="11" fill="#0F172A" fill-opacity="0.92" stroke="#1E40FF" stroke-width="1.4"/>
+      <circle cx="17" cy="22" r="4.5" fill="#10B981"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+      <text x="30" y="19" fill="#93C5FD" font-family="system-ui, sans-serif" font-size="10" font-weight="700">CORE PLATFORM</text>
+      <text x="30" y="35" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="800">DOMATION Enterprise OS</text>
 
-      <rect x="200" y="0" width="184" height="44" rx="11" fill="#0F172A" fill-opacity="0.92" stroke="#0284C7" stroke-width="1.4"/>
-      <circle cx="218" cy="22" r="4.5" fill="#38BDF8"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite"/></circle>
-      <text x="232" y="20" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">PROPTECH &amp; WEBGL 3D</text>
-      <text x="232" y="35" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="800">EcoLife Three.js 3D</text>
+      <rect x="208" y="0" width="182" height="44" rx="11" fill="#0F172A" fill-opacity="0.92" stroke="#0284C7" stroke-width="1.4"/>
+      <circle cx="225" cy="22" r="4.5" fill="#38BDF8"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite"/></circle>
+      <text x="238" y="19" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="10" font-weight="700">PROPTECH &amp; WEBGL 3D</text>
+      <text x="238" y="35" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="800">EcoLife Three.js 3D</text>
 
-      <rect x="398" y="0" width="192" height="44" rx="11" fill="#0F172A" fill-opacity="0.92" stroke="#7C3AED" stroke-width="1.4"/>
-      <circle cx="416" cy="22" r="4.5" fill="#A78BFA"><animate attributeName="opacity" values="1;0.25;1" dur="1.7s" repeatCount="indefinite"/></circle>
-      <text x="430" y="20" fill="#DDD6FE" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">AI MULTI-AGENT CAD</text>
-      <text x="430" y="35" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="800">INKICA Studio 208 SKU</text>
+      <rect x="402" y="0" width="194" height="44" rx="11" fill="#0F172A" fill-opacity="0.92" stroke="#7C3AED" stroke-width="1.4"/>
+      <circle cx="419" cy="22" r="4.5" fill="#A78BFA"><animate attributeName="opacity" values="1;0.25;1" dur="1.7s" repeatCount="indefinite"/></circle>
+      <text x="432" y="19" fill="#DDD6FE" font-family="system-ui, sans-serif" font-size="10" font-weight="700">AI MULTI-AGENT CAD</text>
+      <text x="432" y="35" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="800">INKICA Studio 208 SKU</text>
 
-      <rect x="604" y="0" width="182" height="44" rx="11" fill="#0F172A" fill-opacity="0.92" stroke="#10B981" stroke-width="1.4"/>
-      <circle cx="622" cy="22" r="4.5" fill="#34D399"><animate attributeName="opacity" values="0.25;1;0.25" dur="1.4s" repeatCount="indefinite"/></circle>
-      <text x="636" y="20" fill="#6EE7B7" font-family="system-ui, sans-serif" font-size="10.5" font-weight="700">FINTECH &amp; HEALTH</text>
-      <text x="636" y="35" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="800">Flora VietQR ACB Sync</text>
+      <rect x="608" y="0" width="184" height="44" rx="11" fill="#0F172A" fill-opacity="0.92" stroke="#10B981" stroke-width="1.4"/>
+      <circle cx="625" cy="22" r="4.5" fill="#34D399"><animate attributeName="opacity" values="0.25;1;0.25" dur="1.4s" repeatCount="indefinite"/></circle>
+      <text x="638" y="19" fill="#6EE7B7" font-family="system-ui, sans-serif" font-size="10" font-weight="700">FINTECH &amp; HEALTH</text>
+      <text x="638" y="35" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="800">Flora VietQR ACB Sync</text>
     </g>
   </g>
 
